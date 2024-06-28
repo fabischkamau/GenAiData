@@ -1,0 +1,752 @@
+{
+    "name": "Amen Vitamin D, K2, and Zinc (60 Capsules)",
+    "brand": "Amen",
+    "price": "22.99",
+    "images": [
+        "https:\/\/s7media.vitaminshoppe.com\/is\/image\/VitaminShoppe\/2268613_01?$OP_PDPZOOM$",
+        "https:\/\/s7media.vitaminshoppe.com\/is\/image\/VitaminShoppe\/2268613_03?$OP_PDPZOOM$",
+        "https:\/\/s7media.vitaminshoppe.com\/is\/image\/VitaminShoppe\/2268613_04?$OP_PDPZOOM$",
+        "https:\/\/s7media.vitaminshoppe.com\/is\/image\/VitaminShoppe\/2268613_05?$OP_PDPZOOM$"
+    ],
+    "thumbnails": [
+        "https:\/\/s7media.vitaminshoppe.com\/is\/image\/VitaminShoppe\/2268613_01?$OP_PLP$",
+        "https:\/\/s7media.vitaminshoppe.com\/is\/image\/VitaminShoppe\/2268613_03?$OP_PLP$",
+        "https:\/\/s7media.vitaminshoppe.com\/is\/image\/VitaminShoppe\/2268613_04?$OP_PLP$",
+        "https:\/\/s7media.vitaminshoppe.com\/is\/image\/VitaminShoppe\/2268613_05?$OP_PLP$"
+    ],
+    "description": "<p>Amen Vitamin D, K2 & Zinc supplement provides a simple to use one capsule a day solution. This vegan formula features vitamins, zinc and also offers a whole food blend with blueberry, cranberry, elderberry, and apple powder fruits all-in-one.<p\/>\n<p> <p\/>\n<ul><li>Vitamin D3 5000 IU as cholecalciferol<\/li>\n<li>30 mg Zinc (as amino acid chelate)<\/li>\n<li>Vitamin K2 (as MK-7)<\/li>\n<li>Organic whole food blend with apple, blueberry, cranberry, and elderberry powder fruits<\/li>\n<li>2-month supply of vitamin D supplement with vitamin K2, and zinc<\/li>\n<li>Simple to use vitamin D3 K2 with just 1 capsule a day<\/li>\n<li>Vegan<\/li>\n<li>Dairy & soy free<\/li>\n<li>Non-GMO, paleo & keto-friendly, gluten-free<\/li>\n<li>Third party tested<\/li>\n<li>Manufactured in the USA in a cGMP certified facility<\/li><\/ul>",
+    "feature": "Dairy Free,Gluten Free,Non-GMO,Keto,Vegan,Paleo Friendly",
+    "serving": "1 Capsule",
+    "strength": "",
+    "weight": "4",
+    "weightType": "OZ",
+    "upc": "853919008854",
+    "numberOfServings": 60,
+    "type": "",
+    "form": "Capsules",
+    "target": "",
+    "ingredients": [
+        {
+            "ingredentDetails": "(AS CHOLECALCIFEROL; FROM CULTURES OF SACCHAROMYCES CEREVISIAE)",
+            "rdaPercnt": "625",
+            "ingredentName": "VITAMIN D3",
+            "unts": "MCG",
+            "amtContained": "125",
+            "sortOrder": "1"
+        },
+        {
+            "ingredentDetails": "(AS AMINO ACID CHELATE)",
+            "rdaPercnt": "273",
+            "ingredentName": "ZINC",
+            "unts": "MG",
+            "amtContained": "30",
+            "sortOrder": "2"
+        },
+        {
+            "ingredentDetails": "(ORGANIC BLUEBERRY POWDER (FRUIT), ORGANIC CRANBERRY POWDER (FRUIT), ORGANIC ELDERBERRY POWDER (FRUIT), ORGANIC APPLE POWDER (FRUIT)",
+            "rdaPercnt": "**",
+            "ingredentName": "ORGANIC WHOLE FOOD BLEND",
+            "unts": "MG",
+            "amtContained": "100",
+            "sortOrder": "3"
+        },
+        {
+            "ingredentDetails": "(AS MENAQUINONE-7)",
+            "rdaPercnt": "**",
+            "ingredentName": "VITAMIN K2",
+            "unts": "MCG",
+            "amtContained": "90",
+            "sortOrder": "4"
+        }
+    ],
+    "otherIngredients": " Methylcellulose Capsule.",
+    "directions": " Take 1 capsule daily with 8 ounces of water or your favorite beverage. May be taken with or without food.",
+    "warnings": " Do not exceed recommended dose. Pregnant or nursing mothers, children under 18 and individuals with a known medical condition should consult a physician before using this or any dietary supplement. Discontinue use two weeks prior to surgery. Please use caution if you have allergies or sensitivities to any of the listed ingredients. Made on equipment that also processes milk, eggs, fish, tree nuts and soy.",
+    "allrgens": "Shellfish Free,Soy Free",
+    "notContains": "Free of Animal Derivatives, Free of Artificial Colors, Free of Artificial Flavors, Free of Artificial Sweeteners",
+    "category": "Vitamins & Supplements",
+    "subCategory1": "Letter Vitamins",
+    "subCategory2": "",
+    "reviews": {
+        "735617": {
+            "id": 735617,
+            "text": "I get 3 supplements in one capsule! I get 30 mg of zinc and my required of essential vitamin D plus vitamin K which must be with vitamin D for absorption..I take other code age supplements and I love this compony!",
+            "title": "Amazing!",
+            "dateCreatedFormatted": "Mar 27, 2024",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "682768": {
+            "id": 682768,
+            "text": "Great product, especially in the cold months of the year..",
+            "title": "Essential",
+            "dateCreatedFormatted": "Dec 19, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "678891": {
+            "id": 678891,
+            "text": "Well packaged, easy to swallow. Enhances well being.",
+            "title": "Power in a tiny pill.",
+            "dateCreatedFormatted": "Nov 29, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669480": {
+            "id": 669480,
+            "text": "Easy to swallow, nicely packaged.",
+            "title": null,
+            "dateCreatedFormatted": "Oct 19, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "663878": {
+            "id": 663878,
+            "text": "Since taking this supplement I have sleep better and have more energy during the day! I love that the supplement has these three combined into one supplement! I will order again.",
+            "title": "Vitamin D, Zinc, K2",
+            "dateCreatedFormatted": "Oct 10, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "661041": {
+            "id": 661041,
+            "text": "I'm on my 3rd bottle and continue to feel well and no muscle cramps.",
+            "title": "Keeps me feeling well",
+            "dateCreatedFormatted": "Oct 3, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "660521": {
+            "id": 660521,
+            "text": "Well I haven't been using this very long (about a month now), but so far so good. After several surgeries my hair was falling out by the handfuls. The major hair loss has really slowed down, and so I plan on continuing this product because it seems to be doing well for me. ????",
+            "title": "It's working, I give Five Stars ??",
+            "dateCreatedFormatted": "Oct 1, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "660098": {
+            "id": 660098,
+            "text": "I was looking for a supplement that combines the 3 vitamins of D, K2, and Zinc because I had read an article that stated combining k2 and Zinc helps the vitamin d be absorbed in the body better.",
+            "title": "Good supplement ",
+            "dateCreatedFormatted": "Sep 24, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "648150": {
+            "id": 648150,
+            "text": "Excellant .... because it include K2 and zinc.... I had read that zinc should also be included with your vitamins",
+            "title": "vit D K2 ",
+            "dateCreatedFormatted": "Sep 18, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647404": {
+            "id": 647404,
+            "text": "Easy to order and it's been a great product for our family",
+            "title": "Great Product",
+            "dateCreatedFormatted": "Sep 1, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647372": {
+            "id": 647372,
+            "text": "Just started usually this product and trust it will help during this trying season of life ??",
+            "title": "Good stuff!",
+            "dateCreatedFormatted": "Aug 30, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647402": {
+            "id": 647402,
+            "text": "This is the second bottle<br \/>I've used and I have to say I love<br \/>It. My hair has been thinning for 3 years but since using this product my hair dresser noticed how much thicker my hair is getting. I'll keep using for sure!",
+            "title": "2nd bottle ",
+            "dateCreatedFormatted": "Aug 26, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647332": {
+            "id": 647332,
+            "text": "Good for support",
+            "title": "Good choose",
+            "dateCreatedFormatted": "Aug 25, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647329": {
+            "id": 647329,
+            "text": "This one of the best supplements on the market ong",
+            "title": "Perfect",
+            "dateCreatedFormatted": "Jul 28, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647369": {
+            "id": 647369,
+            "text": "The best vitamin that I have tried so far, has no smell\/after taste and doesn't make me nauseous at all.",
+            "title": "The best",
+            "dateCreatedFormatted": "Jul 25, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647346": {
+            "id": 647346,
+            "text": "Only one week I took. But feeling very good strengthening in my arm and leg.<br \/>Sometimes I feel very very weakness but I feel very good after taking these.??",
+            "title": "Very very good deserve five star",
+            "dateCreatedFormatted": "Jul 21, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647393": {
+            "id": 647393,
+            "text": "no problems with the product, need to place an order :)",
+            "title": "vitamin D k2 and zinc",
+            "dateCreatedFormatted": "Jun 15, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647389": {
+            "id": 647389,
+            "text": "The Amen Vit D, Zinc, and K2 works. I will definitely continue to use it.",
+            "title": "Great Product",
+            "dateCreatedFormatted": "Jun 10, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647373": {
+            "id": 647373,
+            "text": "This product combines all the vitamins to insure the proper absorption of Vitamin. My husband and I both take it.",
+            "title": "Best Vitamin D!!!!",
+            "dateCreatedFormatted": "Jun 8, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647419": {
+            "id": 647419,
+            "text": "I love the Codeage products and offers. Their response time was great! The product delivered! I am ready to purchase my next selection.",
+            "title": "Super nutrition ",
+            "dateCreatedFormatted": "May 31, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647386": {
+            "id": 647386,
+            "text": "I love everything of this brand! ...",
+            "title": "The best",
+            "dateCreatedFormatted": "May 16, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647407": {
+            "id": 647407,
+            "text": "I've been taking this for almost 2 months and the lady that does my eyebrows said there is alot of new growth. I can tell a difference in my hair thickness as well. Will buy again.",
+            "title": "Hair thicker ",
+            "dateCreatedFormatted": "May 3, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647428": {
+            "id": 647428,
+            "text": "Excellent <br \/>I plan on keeping this on my daily <br \/>Will reorder again and again and again",
+            "title": "Excellent vitamin supplement ",
+            "dateCreatedFormatted": "May 1, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647355": {
+            "id": 647355,
+            "text": "I am so glad to find this combination of Vitamins and Zinc in one capsule. As a plus it contains Organic Whole Food Blend. <br \/>Will order again!",
+            "title": "Three in one capsule",
+            "dateCreatedFormatted": "Apr 24, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647377": {
+            "id": 647377,
+            "text": "Like it very much! Convient",
+            "title": "Great",
+            "dateCreatedFormatted": "Apr 21, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647375": {
+            "id": 647375,
+            "text": "I have been using Codeage vitamins for some months now and am very happy with the energy and wellness I am experiencing",
+            "title": "Great combination ",
+            "dateCreatedFormatted": "Apr 19, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647340": {
+            "id": 647340,
+            "text": "Great product. I will order again.",
+            "title": "Vitamin D, K2 and zinc",
+            "dateCreatedFormatted": "Apr 14, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647363": {
+            "id": 647363,
+            "text": "I have been using the Amen Vitamin D with K2 & Zinc for about a month.<br \/>I feel like it is a good addition to the other suppliments that I currently use.<br \/>MBird",
+            "title": "Great product!",
+            "dateCreatedFormatted": "Apr 6, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647397": {
+            "id": 647397,
+            "text": "I really like this supplement. I was deficient, and this raised my Vitamin D to an optimal level. 10\/10 recommend.<br \/>",
+            "title": "Raised my Vitamin D levels",
+            "dateCreatedFormatted": "Mar 23, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647396": {
+            "id": 647396,
+            "text": "Unique combo..... can't find anywhere else.",
+            "title": "Title !?!?",
+            "dateCreatedFormatted": "Mar 16, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647339": {
+            "id": 647339,
+            "text": "These vitamins are essential to your everyday vitamin intake.<br \/> Vitamin K2 is required to activate the proteins that determine where calcium goes in our bodies, making sure that the calcium we absorb goes into our bones where we want it and not into our arteries or our hearts where we don't. That's the job of the proteins activated by K2.",
+            "title": "Essential vitamins ",
+            "dateCreatedFormatted": "Mar 15, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647426": {
+            "id": 647426,
+            "text": "Very good! No side effects, and it's giving me a peace of mind knowing I'm doing good for my bones and heart!",
+            "title": "Good supplement!",
+            "dateCreatedFormatted": "Mar 8, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647390": {
+            "id": 647390,
+            "text": "Love the quality of this brand, nothing unwanted on it, and love the fact that I have 3 in 1 .",
+            "title": "Good quality",
+            "dateCreatedFormatted": "Mar 4, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647401": {
+            "id": 647401,
+            "text": "It was a fast delivery and I use it daily. These are vitamins that I need in my diet.",
+            "title": "Vitamin D,K2 & Zinc",
+            "dateCreatedFormatted": "Feb 24, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647382": {
+            "id": 647382,
+            "text": "Company is great to work with , my order is on a monthly delivery and it comes before I run out. Awesome vitamins",
+            "title": "Great vitamins",
+            "dateCreatedFormatted": "Feb 22, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647356": {
+            "id": 647356,
+            "text": "The product has been easy to use and we have appreciated the easy ordering. We are pleased with the product.",
+            "title": "Good Purchase",
+            "dateCreatedFormatted": "Feb 22, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647367": {
+            "id": 647367,
+            "text": "Excellent, with high quality, great taste and results",
+            "title": "Amen Vitsmin D, Zinc, K2",
+            "dateCreatedFormatted": "Feb 21, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647424": {
+            "id": 647424,
+            "text": "I liked the fact that this product is 3 in 1 making it easy to get my daily vitamins. No fuss.",
+            "title": "Codeage Vit D and K2 and Zinc",
+            "dateCreatedFormatted": "Feb 17, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647349": {
+            "id": 647349,
+            "text": "Great quality, 4 day delivery, has no taste, big slippery pill tho",
+            "title": "Regulated my period",
+            "dateCreatedFormatted": "Jan 12, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647342": {
+            "id": 647342,
+            "text": "I immediately felt the benefits of the Vitamin D3, Zinc, and K2 compared to my synthetic version from another company. Adding that with the organic powder mixes just enhances everything. It's great.",
+            "title": "Perfection",
+            "dateCreatedFormatted": "Jan 9, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647362": {
+            "id": 647362,
+            "text": "Delivery delivery delivery",
+            "title": "Review",
+            "dateCreatedFormatted": "Dec 29, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647410": {
+            "id": 647410,
+            "text": "Great product but don't understand how to use your questionnaire.",
+            "title": "Review",
+            "dateCreatedFormatted": "Dec 24, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647351": {
+            "id": 647351,
+            "text": "I have not started taking this product.when started it will take at least a whole bottle before giving feedback.",
+            "title": "Feedback",
+            "dateCreatedFormatted": "Dec 16, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647327": {
+            "id": 647327,
+            "text": "Amazing product made by codeage. It's been ages since i found a product like codeage.",
+            "title": "Codeage ",
+            "dateCreatedFormatted": "Dec 9, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647425": {
+            "id": 647425,
+            "text": "Great product. Love that I am getting D, K2 and zinc all in one capsule",
+            "title": "Great price",
+            "dateCreatedFormatted": "Nov 20, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647350": {
+            "id": 647350,
+            "text": "Great I will reorder!",
+            "title": "Amen",
+            "dateCreatedFormatted": "Nov 7, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647394": {
+            "id": 647394,
+            "text": "Good product. Very satisfied.",
+            "title": "Product review ",
+            "dateCreatedFormatted": "Oct 22, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647384": {
+            "id": 647384,
+            "text": "Good stuff, my doctor told me I was vitamin D insufficient so I bought these, also these don't give me that matalic taste either. Will buy again",
+            "title": "Vitamin D",
+            "dateCreatedFormatted": "Oct 16, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647371": {
+            "id": 647371,
+            "text": "The quality was beyond excellent, great results!",
+            "title": "Amen Vitamin D, Zinc, ",
+            "dateCreatedFormatted": "Sep 21, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647403": {
+            "id": 647403,
+            "text": "It's a great supplement that I've added to my daily regimen.",
+            "title": "Amen to Vit D Znc & K2 !",
+            "dateCreatedFormatted": "Sep 3, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647392": {
+            "id": 647392,
+            "text": "Love the vitamins and the price",
+            "title": "Great company",
+            "dateCreatedFormatted": "Aug 15, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647391": {
+            "id": 647391,
+            "text": "Arrived fast. Works as it should",
+            "title": "Great supplement",
+            "dateCreatedFormatted": "Aug 5, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647406": {
+            "id": 647406,
+            "text": "Great product, great company. Product arrived quickly. I highly recommend.",
+            "title": "Awesome",
+            "dateCreatedFormatted": "Jul 29, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647331": {
+            "id": 647331,
+            "text": "Good value and convienance. 3 in one vitamine. No need to take multiple pills. Fast delivery and service too! Thank you. Robert G. From Viaslia, Ca.",
+            "title": "Vitamin D, Zinc & K2",
+            "dateCreatedFormatted": "May 20, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647359": {
+            "id": 647359,
+            "text": "Delivery fast and easy, loved that it doesnt make you nauseous when you take it without food. High Quality :)",
+            "title": "Vitamin D, K2 & Zinc",
+            "dateCreatedFormatted": "May 12, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647387": {
+            "id": 647387,
+            "text": "Best combination of vitamins for the best price!",
+            "title": "Excellent",
+            "dateCreatedFormatted": "Apr 27, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647411": {
+            "id": 647411,
+            "text": "Best combination of vitamins for the best price!",
+            "title": "Excellent",
+            "dateCreatedFormatted": "Apr 27, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647420": {
+            "id": 647420,
+            "text": "This is the best way I've found for taking Vitamin K & D3! Delivery is quick & this is a very high-quality supplement.",
+            "title": "Great Suppliment!",
+            "dateCreatedFormatted": "Apr 3, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647412": {
+            "id": 647412,
+            "text": "All the vitamin D and zinc you need with K for proper absorption!",
+            "title": "Great product!",
+            "dateCreatedFormatted": "Mar 13, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647374": {
+            "id": 647374,
+            "text": "I've been taking these for a bit now, the capsules are good tasting. Even if some of the powder gets out, the flavor is pleasant.",
+            "title": "Vitamin so easy to take",
+            "dateCreatedFormatted": "Mar 6, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647398": {
+            "id": 647398,
+            "text": "Love this all in one immune boosting supplement. The combination all balances for best absorption. I really enjoy cutting the number of supplements I take in half. Easy to take and easy on the stomach.",
+            "title": "All in one",
+            "dateCreatedFormatted": "Mar 1, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647427": {
+            "id": 647427,
+            "text": "I've been taking these for a few months now. So far so good.",
+            "title": "Love the ease of the subscription.",
+            "dateCreatedFormatted": "Feb 26, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647417": {
+            "id": 647417,
+            "text": "I read that D3 and zinc are good at fighting and warding off viruses, so this is a good supplement if you want something for that. Quercetin is also a good zinc ionophore - meaning that it helps get the zinc into your body more effectively. So a quercetin supplement in addition to these pills could be one way to help ward against fighting against colds and other viruses. For me, this has helped me sleep a bit. I like the K2 as well for better calcium distribution. It's a bit pricey is the only caveat to this product.",
+            "title": "Just What I was Looking For",
+            "dateCreatedFormatted": "Feb 23, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647347": {
+            "id": 647347,
+            "text": "We've been very happy with the price and quality of this product.",
+            "title": "Great product",
+            "dateCreatedFormatted": "Feb 23, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647354": {
+            "id": 647354,
+            "text": "I found it very convenient to take only 1 pill to get all 3 - zinc, vit D and vit K.",
+            "title": "Martha s review",
+            "dateCreatedFormatted": "Feb 19, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647383": {
+            "id": 647383,
+            "text": "Was very happy with these pills. They are great quality and easy to take.",
+            "title": "Great quality",
+            "dateCreatedFormatted": "Feb 19, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647333": {
+            "id": 647333,
+            "text": "This has seemed to work at keeping my son and I from getting our weekly winter colds.",
+            "title": "Seems to be keeping the constant winter colds at bay",
+            "dateCreatedFormatted": "Feb 13, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647348": {
+            "id": 647348,
+            "text": "Question:How was your overall experience using this item? It's a vitamin, very easy to use. Capsule form. I've only had them a couple of weeks, do I notice any thing? No. It's vitamins. Good combination.",
+            "title": "The combination I wanted.",
+            "dateCreatedFormatted": "Feb 11, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647338": {
+            "id": 647338,
+            "text": "Question:How was your overall experience using this item? It's a vitamin, very easy to use. Capsule form. I've only had them a couple of weeks, do I notice any thing? No. It's vitamins. Good combination.",
+            "title": "The combination I wanted.",
+            "dateCreatedFormatted": "Feb 11, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647405": {
+            "id": 647405,
+            "text": "I am feeling GREAT. I have one week before I complete the 60 capsules I ordered. I have noticed I have more energy and better balance. Not sure which vitamin is working well for me but I do know many people have a K2 deficiency. And Zinc is an excellent supplement. I am ordering another bottle this week. I highly recommend the Vitamin D, K2 & Zinc combo vitamins. I also researched the vitamins before I purchased so I know this is a great combo.",
+            "title": "Love these bitamins",
+            "dateCreatedFormatted": "Feb 10, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647364": {
+            "id": 647364,
+            "text": "Very good product! Good combination of supplements. I would recommend it!",
+            "title": "Good Product!",
+            "dateCreatedFormatted": "Feb 5, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647395": {
+            "id": 647395,
+            "text": "Very pleased with this product",
+            "title": "D3,k2 zinc",
+            "dateCreatedFormatted": "Feb 1, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647335": {
+            "id": 647335,
+            "text": "Big thank you to you for creating this multi vitamin.",
+            "title": "Vitamin D K2 & Zinc",
+            "dateCreatedFormatted": "Jan 27, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647413": {
+            "id": 647413,
+            "text": "The delivery was fast and it has no weird taste. My energy levels are better. Thank you!",
+            "title": "I have more energy",
+            "dateCreatedFormatted": "Jan 26, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647370": {
+            "id": 647370,
+            "text": "I like that this supplement has all 3.",
+            "title": "Vitamin",
+            "dateCreatedFormatted": "Jan 26, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647423": {
+            "id": 647423,
+            "text": "The delivery was fast and it has no weird taste. My energy levels are better. Thank you!",
+            "title": "I have more energy",
+            "dateCreatedFormatted": "Jan 26, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647353": {
+            "id": 647353,
+            "text": "My husband did a lot of research before purchasing and this met our expectations.",
+            "title": "As promised",
+            "dateCreatedFormatted": "Jan 23, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647341": {
+            "id": 647341,
+            "text": "Amazing experience! I ran out and was happy to purchase my second bottle! Thank you!!",
+            "title": "Great!",
+            "dateCreatedFormatted": "Jan 23, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647422": {
+            "id": 647422,
+            "text": "Delivery is quick and product is great",
+            "title": "Great vitamins",
+            "dateCreatedFormatted": "Jan 20, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647415": {
+            "id": 647415,
+            "text": "Feels like a high quality standard",
+            "title": "Great Natural Product",
+            "dateCreatedFormatted": "Jan 20, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647379": {
+            "id": 647379,
+            "text": "Nice all in one vitamine that's easy to take.Now I only have to take 1 pill instead of three.",
+            "title": "Amen Vitamin D, Zinc & K2",
+            "dateCreatedFormatted": "Jan 17, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647416": {
+            "id": 647416,
+            "text": "It is Great! Will purchase again",
+            "title": "Great",
+            "dateCreatedFormatted": "Jan 14, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647336": {
+            "id": 647336,
+            "text": "They seem to have no bad taste & don't give heartburn after like some. Thanks for making stand-up products!",
+            "title": "Great Supplement!",
+            "dateCreatedFormatted": "Jan 9, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647360": {
+            "id": 647360,
+            "text": "It is working!!",
+            "title": "Great!",
+            "dateCreatedFormatted": "Jan 7, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "647343": {
+            "id": 647343,
+            "text": "This has not only provided me with the K2 I needed, but also the D & Zinc in which I am deficient. Nice to only have to take one pill a day for them all!!!",
+            "title": "Great Suppliment!",
+            "dateCreatedFormatted": "Dec 14, 2021",
+            "purchaseDateFormatted": "",
+            "name": " "
+        }
+    }
+}

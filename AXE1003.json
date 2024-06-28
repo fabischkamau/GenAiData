@@ -1,0 +1,738 @@
+{
+    "name": "Multi Collagen Protein - Hair, Skin, Joints (40 Single Serving Packets)",
+    "brand": "Ancient Nutrition",
+    "price": "69.99",
+    "images": [
+        "https:\/\/s7media.vitaminshoppe.com\/is\/image\/VitaminShoppe\/2144665_01?$OP_PDPZOOM$",
+        "https:\/\/s7media.vitaminshoppe.com\/is\/image\/VitaminShoppe\/2144665_02?$OP_PDPZOOM$",
+        "https:\/\/s7media.vitaminshoppe.com\/is\/image\/VitaminShoppe\/2144665_03?$OP_PDPZOOM$",
+        "https:\/\/s7media.vitaminshoppe.com\/is\/image\/VitaminShoppe\/2144665_04?$OP_PDPZOOM$",
+        "https:\/\/s7media.vitaminshoppe.com\/is\/image\/VitaminShoppe\/2144665_05?$OP_PDPZOOM$"
+    ],
+    "thumbnails": [
+        "https:\/\/s7media.vitaminshoppe.com\/is\/image\/VitaminShoppe\/2144665_01?$OP_PLP$",
+        "https:\/\/s7media.vitaminshoppe.com\/is\/image\/VitaminShoppe\/2144665_02?$OP_PLP$",
+        "https:\/\/s7media.vitaminshoppe.com\/is\/image\/VitaminShoppe\/2144665_03?$OP_PLP$",
+        "https:\/\/s7media.vitaminshoppe.com\/is\/image\/VitaminShoppe\/2144665_04?$OP_PLP$",
+        "https:\/\/s7media.vitaminshoppe.com\/is\/image\/VitaminShoppe\/2144665_05?$OP_PLP$"
+    ],
+    "description": "<p><b>Dr. Axe Multi-Collagen Protein:<\/b><\/p><p>Dr. Axe Multi Collage Protein Formula is uniquely formulated with 5 Types of Food Source Collagen (Type I,II,III,V and X) - Specifically designed to provide your body with the primary building blocks its needs for:<\/p><ul><li>Supports a healthy gut&dagger;<\/li><li>Supports mobility and flexibility&dagger;<\/li><li>Supports healthy muscles&dagger;<\/li><li>Supports healthy bones and joints&dagger;<\/li><li>Supports a healthy weight while keeping hunger in check&dagger;<\/li><li>Supports healthy, normal aging&dagger;<\/li><li>Supports restful sleep&dagger;<\/li><li>Supports a healthy brain&dagger;<\/li><\/ul><p><b>-Easy to mix powder can be added to a wide variety of healthy foods and beverages<\/b><\/p><p>Most people aren't getting enough collagen from diet alone, so help support the health of bodily tissues and more with Dr. Collagen Multi Collagen Protein.&dagger;<\/p><p> <\/p><ul><\/ul>",
+    "feature": "Gluten Free",
+    "serving": "1 Packet",
+    "strength": "",
+    "weight": "21",
+    "weightType": "OZ",
+    "upc": "858109006320",
+    "numberOfServings": 40,
+    "type": "",
+    "form": "Packet(s)",
+    "target": "",
+    "ingredients": [
+        {
+            "ingredentDetails": "",
+            "rdaPercnt": "*",
+            "ingredentName": "Total Calories",
+            "unts": null,
+            "amtContained": "35",
+            "sortOrder": "1"
+        },
+        {
+            "ingredentDetails": "",
+            "rdaPercnt": "*",
+            "ingredentName": "Protein",
+            "unts": "GM",
+            "amtContained": "9",
+            "sortOrder": "6"
+        },
+        {
+            "ingredentDetails": "(FROM LIPID METABOLITE ASCORBATE)",
+            "rdaPercnt": "100",
+            "ingredentName": "VITAMIN C",
+            "unts": "MG",
+            "amtContained": "90",
+            "sortOrder": "7"
+        },
+        {
+            "ingredentDetails": "HYDROLYZED BOVINE HIDE COLLAGEN PEPTIDES, FERMENTED EGGSHELL MEMBRANE COLLAGEN, CHICKEN BONE BROTH PROTEIN CONCENTRATE, BACILLUS COAGULANS (2 BILLION CFU), HYDROLYZED FISH COLLAGEN PEPTIDES",
+            "rdaPercnt": "*",
+            "ingredentName": "MULTI COLLAGEN COMPLEX",
+            "unts": "GM",
+            "amtContained": "10",
+            "sortOrder": "8"
+        }
+    ],
+    "otherIngredients": " None.",
+    "directions": " Adults mix the contents of this packet with 8 ounces of water or your favorite hot or cold recipe.",
+    "warnings": " If your are pregnant, nursing, allergic, have a Medical condition or taking any medications, consult a doctor before using this or any other dietary supplement. Do not use if product has been opened or tampered with in any way. Keep out of reach of children.",
+    "allrgens": "Milk Free,Peanut Free,Shellfish Free,Soy Free,Tree Nut Free,Wheat Free",
+    "notContains": "",
+    "category": "Vitamins & Supplements",
+    "subCategory1": "Supplements",
+    "subCategory2": "Collagen",
+    "reviews": {
+        "774760": {
+            "id": 774760,
+            "text": "I love the Multi Collagen Protein Stick Packs They are so convenient to use and handy for Summer travel.",
+            "title": "Multi Collagen Protein",
+            "dateCreatedFormatted": "Jun 8, 2024",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "773113": {
+            "id": 773113,
+            "text": "i like and will recommend",
+            "title": "i like and will recommend",
+            "dateCreatedFormatted": "May 31, 2024",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "751133": {
+            "id": 751133,
+            "text": "These are absolutley perfect for travel! My husband and I take collagen protein daily. These packets are convenient and easy to pack.",
+            "title": "Travel",
+            "dateCreatedFormatted": "Apr 15, 2024",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "692417": {
+            "id": 692417,
+            "text": "GREAT FOR TRAVEL",
+            "title": "GREAT FOR TRAVEL",
+            "dateCreatedFormatted": "Jan 4, 2024",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "673410": {
+            "id": 673410,
+            "text": "Excellent way to make sure I always with the sun like that. Yes, that's cool have my collagen with get me.",
+            "title": "Love the premeasured packs",
+            "dateCreatedFormatted": "Nov 4, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "670975": {
+            "id": 670975,
+            "text": "Super easy to pack and use when traveling or on the go...",
+            "title": "Perfect for travel",
+            "dateCreatedFormatted": "Oct 30, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669560": {
+            "id": 669560,
+            "text": "This is a much easier way to take my collagen on the road when I travel. Thank You",
+            "title": "Multi Collagen Protein Stick Packs",
+            "dateCreatedFormatted": "Oct 20, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669280": {
+            "id": 669280,
+            "text": "The best multi collagen protein - so good and nutrition.",
+            "title": "The best multi collagen protein",
+            "dateCreatedFormatted": "Oct 5, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669265": {
+            "id": 669265,
+            "text": "Super convenient to take on trips and dissolves quickly. My go to breakfast in my cup of joe every morning.",
+            "title": "Love this collagen",
+            "dateCreatedFormatted": "Oct 5, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669278": {
+            "id": 669278,
+            "text": "These individual packets are absolutely necessary when traveling overseas or domestically. They fit nicely into toiletry holders? put in car when out and about.",
+            "title": "Absolute must for backup!",
+            "dateCreatedFormatted": "Sep 22, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669245": {
+            "id": 669245,
+            "text": "Such a convenient way to take my collagen when I travel",
+            "title": "Travel",
+            "dateCreatedFormatted": "Sep 20, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669249": {
+            "id": 669249,
+            "text": "perfect for traveling",
+            "title": "perfect for traveling",
+            "dateCreatedFormatted": "Sep 2, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669257": {
+            "id": 669257,
+            "text": "I've been using this product for 3 years and really like it. The packets are great when you travel.",
+            "title": "Multi Collagen Stick Packs",
+            "dateCreatedFormatted": "Aug 19, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669277": {
+            "id": 669277,
+            "text": "Add this to my morning coffee...wonderful way to wake up...",
+            "title": "great product !!!",
+            "dateCreatedFormatted": "Jul 22, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669279": {
+            "id": 669279,
+            "text": "Love to take these along when traveling. Easier to pack.",
+            "title": "Love to take these along",
+            "dateCreatedFormatted": "Jul 12, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669276": {
+            "id": 669276,
+            "text": "I've been using this collagen for a couple of years now. Stick packs are super convenient, especially when traveling.",
+            "title": "Perfect for travel",
+            "dateCreatedFormatted": "Jun 24, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669281": {
+            "id": 669281,
+            "text": "Very convenient when you travel",
+            "title": "Very convenient when you travel",
+            "dateCreatedFormatted": "May 18, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669254": {
+            "id": 669254,
+            "text": "Easy to throw in my purse for work and travel! Love the Collagen product to add to any beverage",
+            "title": "Love the travel - size packets",
+            "dateCreatedFormatted": "May 9, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669282": {
+            "id": 669282,
+            "text": "Very convenient. Love it",
+            "title": "Very convenient. Love it",
+            "dateCreatedFormatted": "Apr 29, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669273": {
+            "id": 669273,
+            "text": "I love these packs because I can pack them in my suitcase and not worry about them being too large to take on the airplane.",
+            "title": "Portable for travel",
+            "dateCreatedFormatted": "Apr 21, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669267": {
+            "id": 669267,
+            "text": "Needed to have my collagen with me on a trip and this was perfect- individual servings in its own package - was able to take just what I needed and not try to measure portions without tools to do so",
+            "title": "Convenient",
+            "dateCreatedFormatted": "Apr 21, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669270": {
+            "id": 669270,
+            "text": "Awesome for travel!",
+            "title": "Awesome for travel!",
+            "dateCreatedFormatted": "Mar 15, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669255": {
+            "id": 669255,
+            "text": "Love it",
+            "title": "Love it",
+            "dateCreatedFormatted": "Jan 31, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669253": {
+            "id": 669253,
+            "text": "Love it",
+            "title": "Love it",
+            "dateCreatedFormatted": "Dec 19, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669243": {
+            "id": 669243,
+            "text": "I've been taking this collagen for several months now and can definitely tell a difference in my hair, as well as my joints. I don't have the cracking sound in my knees anymore. This is the only brand I'll ever use.",
+            "title": "The BEST collagen!!",
+            "dateCreatedFormatted": "Dec 18, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669244": {
+            "id": 669244,
+            "text": "These are great for travel because they are measured as single servings.",
+            "title": "Travel Collagen Single Packets",
+            "dateCreatedFormatted": "Dec 17, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669275": {
+            "id": 669275,
+            "text": "Love the sticks better. It does not require any measuring but the price is too high. Not on sell enough.",
+            "title": "Excellent product",
+            "dateCreatedFormatted": "Dec 9, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669261": {
+            "id": 669261,
+            "text": "Love these premeasured packettes. I have them with me in my purse, bag ready to use and to share. So easy and convenient.",
+            "title": "have collagen will travel!",
+            "dateCreatedFormatted": "Dec 9, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669272": {
+            "id": 669272,
+            "text": "I have been using this product for over 4years and can tell the difference when I don't use it.",
+            "title": "I have been using this",
+            "dateCreatedFormatted": "Oct 18, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669262": {
+            "id": 669262,
+            "text": "My Husband and I were going on a 2 week road trip and I didn't want to take a big container to put in our morning smoothie, so these were perfect for our trip.",
+            "title": "Multi Collagen Protein stick packs.",
+            "dateCreatedFormatted": "Oct 3, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669268": {
+            "id": 669268,
+            "text": "very convenient when traveling",
+            "title": "protein packs",
+            "dateCreatedFormatted": "Sep 27, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669248": {
+            "id": 669248,
+            "text": "Great idea and very practical and thoughtful for travel",
+            "title": "Great idea and very practical",
+            "dateCreatedFormatted": "Sep 5, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669260": {
+            "id": 669260,
+            "text": "These are perfect for traveling.",
+            "title": "Great priduct",
+            "dateCreatedFormatted": "Aug 23, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669266": {
+            "id": 669266,
+            "text": "I wanted to continue to take my collagen while traveling. These fit the bill.",
+            "title": "Great for traveling",
+            "dateCreatedFormatted": "Aug 19, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669246": {
+            "id": 669246,
+            "text": "Love it",
+            "title": "Love it",
+            "dateCreatedFormatted": "Aug 2, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669269": {
+            "id": 669269,
+            "text": "Love it",
+            "title": "Love it",
+            "dateCreatedFormatted": "Jul 31, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669263": {
+            "id": 669263,
+            "text": "I normally get the powder, but for convenience I purchased the collagen sticks. And, it's still Great.",
+            "title": "Still Great",
+            "dateCreatedFormatted": "Jul 29, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669264": {
+            "id": 669264,
+            "text": "I love using these Stick Packs for traveling",
+            "title": "Great for travel",
+            "dateCreatedFormatted": "Jul 21, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669258": {
+            "id": 669258,
+            "text": "Theses are so convenient for traveling, excellent for when you away from home and you don't have to pack the large containers.",
+            "title": "Multi Collagen Stick Packs",
+            "dateCreatedFormatted": "Jul 6, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669256": {
+            "id": 669256,
+            "text": "the convenience of the packets but HATE how expensive it is. Not sure if I can keep up the 5% discount is nothing.",
+            "title": "love",
+            "dateCreatedFormatted": "Jun 24, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "473109": {
+            "id": 473109,
+            "text": "I was on a trip. I used one package every morning in my coffee. It dissolved beautifully. Had no flavor. My coffee was great. My morning was great. Everything was great",
+            "title": "Good stuff",
+            "dateCreatedFormatted": "Jun 22, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "472279": {
+            "id": 472279,
+            "text": "Great for traveling",
+            "title": "Great for traveling",
+            "dateCreatedFormatted": "Jun 7, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "472280": {
+            "id": 472280,
+            "text": "The stick packs are so convenient to travel with.",
+            "title": "love this collagen",
+            "dateCreatedFormatted": "May 18, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "472278": {
+            "id": 472278,
+            "text": "great for traveling",
+            "title": "great for traveling",
+            "dateCreatedFormatted": "May 16, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "448091": {
+            "id": 448091,
+            "text": "Very convenient for traveling.",
+            "title": "Stick packs",
+            "dateCreatedFormatted": "May 9, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "447774": {
+            "id": 447774,
+            "text": "Very thankful",
+            "title": "Very thankful",
+            "dateCreatedFormatted": "May 7, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "447547": {
+            "id": 447547,
+            "text": "I travel a lot. <br \/>So very convenient.",
+            "title": "Travel",
+            "dateCreatedFormatted": "May 2, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "445290": {
+            "id": 445290,
+            "text": "Traveling frequently I enjoy grabbing a few stick packs for my trip, most convenient",
+            "title": "Travel companion",
+            "dateCreatedFormatted": "Apr 20, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "445171": {
+            "id": 445171,
+            "text": "We love the product and we have a few little trips to make and buying at collagen stick packs was a real easy answer. We've seen good results from the collagen so far and hope to have more.",
+            "title": "Easy convenience",
+            "dateCreatedFormatted": "Apr 18, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "423686": {
+            "id": 423686,
+            "text": "??",
+            "title": "??",
+            "dateCreatedFormatted": "Mar 14, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "423685": {
+            "id": 423685,
+            "text": "I love the convenience of the stick packs especially for when on the go. I would love to be able to get different flavors in the stick packs as well.",
+            "title": "Stick Packs",
+            "dateCreatedFormatted": "Mar 13, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "421810": {
+            "id": 421810,
+            "text": "Love these, they make my life easier and love the results ?",
+            "title": "Love these, they make my",
+            "dateCreatedFormatted": "Mar 7, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669247": {
+            "id": 669247,
+            "text": "I have bought the containers in the past but this works out so much better",
+            "title": "Very convenient",
+            "dateCreatedFormatted": "Mar 6, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669271": {
+            "id": 669271,
+            "text": "I love the individual collagen protein sticks for traveling! They are convenient sized, fit in my overnight bag and weigh next to nothing.",
+            "title": "Collagen Sticks",
+            "dateCreatedFormatted": "Mar 6, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669250": {
+            "id": 669250,
+            "text": "I'm so glad I found these protein stick packs. They're convenient, cheaper than protein bars, they blend well into the soup I make and the taste is pretty good for straight protein.",
+            "title": "A good choice",
+            "dateCreatedFormatted": "Feb 17, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "361588": {
+            "id": 361588,
+            "text": "Perfect for travel and those \"on the go\". I always keep a few in my purse. So easy to use.",
+            "title": "Perfect for busy \"on the go\" people.",
+            "dateCreatedFormatted": "Feb 9, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669259": {
+            "id": 669259,
+            "text": "Multi Collagen Protein stick packs are great for traveling to keep your collagen going! Humidity resistant packaging and easy to throw in your purse\/luggage! Worth the extra cost!",
+            "title": "Great packaging for on the go or traveling!",
+            "dateCreatedFormatted": "Feb 6, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669251": {
+            "id": 669251,
+            "text": "I put this in my coffee. It is easy to use.",
+            "title": "Easy to Use",
+            "dateCreatedFormatted": "Jan 18, 2022",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "340736": {
+            "id": 340736,
+            "text": "These packets are great to use when traveling",
+            "title": "Convenient",
+            "dateCreatedFormatted": "Dec 19, 2021",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "340735": {
+            "id": 340735,
+            "text": "I never go anywhere without my collagen! I have been using Ancient Nutrition Multi Collagen Protein for over 7 years now. I definitely notice if I don't use it.",
+            "title": "A must have while traveling!",
+            "dateCreatedFormatted": "Nov 4, 2021",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "308924": {
+            "id": 308924,
+            "text": "Love this produce!",
+            "title": "Love this produce!",
+            "dateCreatedFormatted": "Sep 22, 2021",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "307271": {
+            "id": 307271,
+            "text": "I love the convenience",
+            "title": "Collagen travel packs",
+            "dateCreatedFormatted": "Sep 15, 2021",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "301527": {
+            "id": 301527,
+            "text": "I use these when we go out of town. They make it so easy to carry my collagen with me.",
+            "title": "Convenient",
+            "dateCreatedFormatted": "Aug 4, 2021",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "300744": {
+            "id": 300744,
+            "text": "Great for travel.",
+            "title": "Handy",
+            "dateCreatedFormatted": "Jul 26, 2021",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "300745": {
+            "id": 300745,
+            "text": "love the individual packs",
+            "title": "love the individual packs",
+            "dateCreatedFormatted": "Jul 26, 2021",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "300743": {
+            "id": 300743,
+            "text": "Absolutely love the individual sticks and I have it in my coffee daily:)",
+            "title": "Awesome product",
+            "dateCreatedFormatted": "Jul 23, 2021",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "273190": {
+            "id": 273190,
+            "text": "Love being able to easily take it with me when traveling.",
+            "title": "Individual Sticks",
+            "dateCreatedFormatted": "Jun 24, 2021",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "271952": {
+            "id": 271952,
+            "text": "Love the product and I buy these for travel and to keep in my purse for late afternoon coffee.",
+            "title": "Protein stick packs",
+            "dateCreatedFormatted": "Jun 8, 2021",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "270718": {
+            "id": 270718,
+            "text": "Easy way for me to suggest to my clients and students and goes easily into gift bags, my packed lunch, even in the car.",
+            "title": "Convenient",
+            "dateCreatedFormatted": "May 20, 2021",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "270026": {
+            "id": 270026,
+            "text": "SAME GREAT PRODUCT AND VERY CONVENIENT TO Pack <br \/>AND USE AT BREAKTIME. ITS GREAT WITH MY COFFEE, HELPS AND GIVES ME PROTEIN TO MAKE IT TO LUNCH.",
+            "title": "GREAT TO USE FOR BREAKS AT WORK.",
+            "dateCreatedFormatted": "May 17, 2021",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "264217": {
+            "id": 264217,
+            "text": "very convenient",
+            "title": "very convenient",
+            "dateCreatedFormatted": "Mar 15, 2021",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "254141": {
+            "id": 254141,
+            "text": "Great Product with great results and I love the convenient passages!!",
+            "title": "5 Stars",
+            "dateCreatedFormatted": "Jan 25, 2021",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "251842": {
+            "id": 251842,
+            "text": "mixes easily and I like the taste",
+            "title": "so easy to use",
+            "dateCreatedFormatted": "Jan 8, 2021",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "240235": {
+            "id": 240235,
+            "text": "Love it",
+            "title": "Works!",
+            "dateCreatedFormatted": "Dec 29, 2020",
+            "purchaseDateFormatted": "Nov 29, 2020",
+            "name": "ANGELA T"
+        },
+        "239741": {
+            "id": 239741,
+            "text": "We use these in our coffee when we travel as well as use them if we go out to eat for breakfast!",
+            "title": "Travel sticks",
+            "dateCreatedFormatted": "Dec 16, 2020",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "230378": {
+            "id": 230378,
+            "text": "Love the convenience",
+            "title": "Love the convenience",
+            "dateCreatedFormatted": "Oct 28, 2020",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "228547": {
+            "id": 228547,
+            "text": "Love to keep these for when we travel",
+            "title": "Love to keep these for",
+            "dateCreatedFormatted": "Aug 4, 2020",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "271951": {
+            "id": 271951,
+            "text": "Love this brand. The multi -collagen protein is by far the best one I tried.",
+            "title": "Love this brand. The multi",
+            "dateCreatedFormatted": "Jul 23, 2020",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "228550": {
+            "id": 228550,
+            "text": "Love this brand. The multi -collagen protein is by far the best one I tried.",
+            "title": "Love this brand. The multi",
+            "dateCreatedFormatted": "Jul 23, 2020",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "228548": {
+            "id": 228548,
+            "text": "This is my favorite protein Powder . A must try",
+            "title": "Best Collagen Protein Powder",
+            "dateCreatedFormatted": "Jul 6, 2020",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "214882": {
+            "id": 214882,
+            "text": "Love the individual packets",
+            "title": "Collagen",
+            "dateCreatedFormatted": "May 14, 2020",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "186379": {
+            "id": 186379,
+            "text": "Great for travel!",
+            "title": "??",
+            "dateCreatedFormatted": "Oct 20, 2019",
+            "purchaseDateFormatted": "Sep 19, 2019",
+            "name": "Cherrie K"
+        },
+        "179538": {
+            "id": 179538,
+            "text": "I love this for travel.  It seems to dissolve a little better than the canister which makes no sense to me.  The packets are a little difficult to open so a pair of scissors is helpful.",
+            "title": "Like them",
+            "dateCreatedFormatted": "May 31, 2019",
+            "purchaseDateFormatted": "Apr 20, 2019",
+            "name": "Pam D"
+        }
+    }
+}

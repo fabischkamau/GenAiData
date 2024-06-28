@@ -1,0 +1,1904 @@
+{
+    "name": "Super Greens Powder with Prebiotics, Probiotics & Digestive Enzymes - Peach Ice Tea (30 Servings)",
+    "brand": "Alani Nu",
+    "price": "25.03",
+    "images": [
+        "https:\/\/s7media.vitaminshoppe.com\/is\/image\/VitaminShoppe\/2268951_01?$OP_PDPZOOM$",
+        "https:\/\/s7media.vitaminshoppe.com\/is\/image\/VitaminShoppe\/2268951_03?$OP_PDPZOOM$",
+        "https:\/\/s7media.vitaminshoppe.com\/is\/image\/VitaminShoppe\/2268951_04?$OP_PDPZOOM$",
+        "https:\/\/s7media.vitaminshoppe.com\/is\/image\/VitaminShoppe\/2268951_05?$OP_PDPZOOM$"
+    ],
+    "thumbnails": [
+        "https:\/\/s7media.vitaminshoppe.com\/is\/image\/VitaminShoppe\/2268951_01?$OP_PLP$",
+        "https:\/\/s7media.vitaminshoppe.com\/is\/image\/VitaminShoppe\/2268951_03?$OP_PLP$",
+        "https:\/\/s7media.vitaminshoppe.com\/is\/image\/VitaminShoppe\/2268951_04?$OP_PLP$",
+        "https:\/\/s7media.vitaminshoppe.com\/is\/image\/VitaminShoppe\/2268951_05?$OP_PLP$"
+    ],
+    "description": "<ul><li>Natural energy boost<\/li>\n<li>Healthy immune system<\/li>\n<li>Supports gut health<\/li><\/ul>",
+    "feature": "",
+    "serving": "1 Scoop",
+    "strength": "",
+    "weight": "11",
+    "weightType": "OZ",
+    "upc": "810030517399",
+    "numberOfServings": 30,
+    "type": "",
+    "form": "Powder",
+    "target": "",
+    "ingredients": [
+        {
+            "ingredentDetails": "",
+            "rdaPercnt": "*",
+            "ingredentName": "CALORIES",
+            "unts": null,
+            "amtContained": "30",
+            "sortOrder": "1"
+        },
+        {
+            "ingredentDetails": "",
+            "rdaPercnt": "2",
+            "ingredentName": "TOTAL CARBOHYDRATE",
+            "unts": "GM",
+            "amtContained": "5",
+            "sortOrder": "2"
+        },
+        {
+            "ingredentDetails": "",
+            "rdaPercnt": "7",
+            "ingredentName": "DIETARY FIBER",
+            "unts": "GM",
+            "amtContained": "2",
+            "sortOrder": "3"
+        },
+        {
+            "ingredentDetails": "",
+            "rdaPercnt": "*",
+            "ingredentName": "TOTAL SUGARS",
+            "unts": "GM",
+            "amtContained": "1",
+            "sortOrder": "4"
+        },
+        {
+            "ingredentDetails": "",
+            "rdaPercnt": "1",
+            "ingredentName": "INCLUDES ADDED SUGARS",
+            "unts": "GM",
+            "amtContained": "1",
+            "sortOrder": "5"
+        },
+        {
+            "ingredentDetails": "",
+            "rdaPercnt": "*",
+            "ingredentName": "PROTEIN",
+            "unts": "GM",
+            "amtContained": "1",
+            "sortOrder": "6"
+        },
+        {
+            "ingredentDetails": "",
+            "rdaPercnt": "56",
+            "ingredentName": "VITAMIN C",
+            "unts": "MG",
+            "amtContained": "50",
+            "sortOrder": "7"
+        },
+        {
+            "ingredentDetails": "",
+            "rdaPercnt": "2",
+            "ingredentName": "CALCIUM",
+            "unts": "MG",
+            "amtContained": "30",
+            "sortOrder": "8"
+        },
+        {
+            "ingredentDetails": "",
+            "rdaPercnt": "6",
+            "ingredentName": "IRON",
+            "unts": "MG",
+            "amtContained": "1",
+            "sortOrder": "9"
+        },
+        {
+            "ingredentDetails": "(AS NICOTINATE GLYCINATE CHELATE)",
+            "rdaPercnt": "686",
+            "ingredentName": "CHROMIUM",
+            "unts": "MCG",
+            "amtContained": "240",
+            "sortOrder": "10"
+        },
+        {
+            "ingredentDetails": "",
+            "rdaPercnt": "2",
+            "ingredentName": "POTASSIUM",
+            "unts": "MG",
+            "amtContained": "100",
+            "sortOrder": "11"
+        },
+        {
+            "ingredentDetails": "BARLEY GRASS, KALE, ALFALFA GRASS, WHEATGRASS, OAT GRASS, SPIRULINA, LEMON JUICE POWDER, CHLORELLA, ASTRAGALUS ROOT EXTRACT, TAPIOCA SYRUP, MALTODEXTRIN",
+            "rdaPercnt": "*",
+            "ingredentName": "ALKALIZING GREENS BLEND",
+            "unts": "GM",
+            "amtContained": "4",
+            "sortOrder": "12"
+        },
+        {
+            "ingredentDetails": "JABUTICABA JUICE POWDER, POMEGRANATE JUICE POWDER, GOJI JUICE POWDER, ACEROLA JUICE POWDER, MANGOSTEEN WHOLE FRUIT, ACAI JUICE POWDER, STRAWBERRY JUICE POWDER, AMLA FRUIT POWDER, CRANBERRY JUICE POWDER, FREEZE-DRIED MAQUI BERRY, MALTODEXTRIN, ASCORBIC ACID, MAGNESIUM HYDROXIDE, TRICALCIUM PHOSPHATE, SILICON DIOXIDE",
+            "rdaPercnt": "*",
+            "ingredentName": "ANTIOXIDANT FRUIT BLEND",
+            "unts": "GM",
+            "amtContained": "2",
+            "sortOrder": "13"
+        },
+        {
+            "ingredentDetails": "LACTOBACILLUS ACIDOPHILUS, LACTOBACILLUS PLANTARUM, LACTOBACILLUS CASEI, LACTOBACILLUS SALIVARIUS, BIFIDOBACTERIUM LACTIS, STREPTOCOCCUS THERMOPHILUS, LACTOBACILLUS PHAMNOSUS, LACTOBACILLUS BREVIS, BIFIDOBACTERIUM BIFIDUM, BIFIDOBACTERIUM LONGUM, FRUCTOOLIGOSACCHARIDES, MICROCRYSTALLINE CELLULOSE",
+            "rdaPercnt": "*",
+            "ingredentName": "PROBIOTIC BLEND",
+            "unts": "MG",
+            "amtContained": "250",
+            "sortOrder": "14"
+        },
+        {
+            "ingredentDetails": "",
+            "rdaPercnt": "*",
+            "ingredentName": "INULIN",
+            "unts": "MG",
+            "amtContained": "127",
+            "sortOrder": "15"
+        },
+        {
+            "ingredentDetails": "COFFEA ARABICA (WHOLE FRUIT) EXTRACT, GREEN TEA LEAF EXTRACT, BROCCOLI SPROUT CONCENTRATE, ONION EXTRACT, APPLE EXTRACT, QUERCETIN, MALTODEXTRIN, ACEROLA FRUIT EXTRACT, TOMATO CONCENTRATE, BROCCOLI CONCENTRATE, ACAI CONCENTRATE, TURMERIC EXTRACT, GARLIC CONCENTRATE, BASIL CONCENTRATE, OREGANO CONCENTRATE, CINNAMON CONCENTRATE, CARROT CONCENTRATE, ELDERBERRY CONCENTRATE, MANGOSTEEN CONCENTRATE, CAMU CAMU CONCENTRATE, BLACKCURRANT EXTRACT, BLUEBERRY EXTRACT, RASPBERRY CONCENTRATE, BLACKBERRY CONCENTRATE, SPINACH CONCENTRATE, CHOKEBERRY CONCENTRATE, KALE CONCENTRATE, SWEET CHERRY CONCENTRATE, BILBERRY EXTRACT, SILICA",
+            "rdaPercnt": "*",
+            "ingredentName": "SPECTRA ANTIOXIDANT BLEND",
+            "unts": "MG",
+            "amtContained": "50",
+            "sortOrder": "16"
+        },
+        {
+            "ingredentDetails": "MALTODEXTRIN, AMYLASE, PROTEASE, CELLULASE, LACTASE, LIPASE",
+            "rdaPercnt": "*",
+            "ingredentName": "DIGEZYME MULTI-ENZYME COMPLEX",
+            "unts": "MG",
+            "amtContained": "50",
+            "sortOrder": "17"
+        }
+    ],
+    "otherIngredients": " Black Tea Leaf, Citric Acid, Malic Acid, Natural Flavor, SIlica, Stevia rebaudiana Leaf Extract",
+    "directions": " As a dietary supplement, mix one (1) scoop in 8-16 fl oz of water daily.",
+    "warnings": " Consult your physician if you are pregnant, lactating, have a medical condition, including but not limited to diabetes or kidney or liver conditions, or are taking any medication. KEEP OUT OF REACH OF CHILDREN. Store in a cool, cry place.",
+    "allrgens": "",
+    "notContains": "",
+    "category": "Food & Drinks",
+    "subCategory1": "Green Foods",
+    "subCategory2": "",
+    "reviews": {
+        "696187": {
+            "id": 696187,
+            "text": "I think it has a good flavor and the texture is pretty good compared to other brands. I would buy again.",
+            "title": "Pretty good!",
+            "dateCreatedFormatted": "Jan 18, 2024",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "696190": {
+            "id": 696190,
+            "text": "Delicious! I just put a scoop in a water bottle. Shake and drink through the day. Does not even taste like I am drinking my greens.",
+            "title": "Yummy Greens!",
+            "dateCreatedFormatted": "Jan 18, 2024",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "693426": {
+            "id": 693426,
+            "text": "I am in LOVE with Alani greens! I haven't found a greens powder that I can get through the first few sips, until now. It tastes like green tea and has no aftertaste. I mix it with the collagen powder and I can tell a difference in my energy level when I drink it. <br \/>I also notice it helps tremendously with some stomach issues which makes me look forward to drinking it.<br \/>The consistency is easy to mix, I just put it in about 16 oz of water in my blender bottle, shake and drink! Very easy!",
+            "title": "Alani Greens Peach Iced Tea",
+            "dateCreatedFormatted": "Jan 11, 2024",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "693232": {
+            "id": 693232,
+            "text": "This product works great . It's also one of the best greens that I have tried .",
+            "title": "This product works great .",
+            "dateCreatedFormatted": "Jan 10, 2024",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "693231": {
+            "id": 693231,
+            "text": "I love the flavor of these greens. I haven't felt bloated since starting them.",
+            "title": "These are fantastic",
+            "dateCreatedFormatted": "Jan 10, 2024",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "691651": {
+            "id": 691651,
+            "text": "SOOOOOO AMAZING! The taste, the smell. I'm obsessed. It tastes like iced tea.",
+            "title": "SOOOOOO AMAZING! The taste, the",
+            "dateCreatedFormatted": "Jan 6, 2024",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "684695": {
+            "id": 684695,
+            "text": "The taste and texture isn't bad. However they state they are gluten free & I have Celiacs; so I bought as I am a diehard Alani fan.. after taking and feeling glutened I checked the label.. they contain barley grass which is a source of gluten.  Will be returning",
+            "title": "Not bad if you don't need to avoid gluten",
+            "dateCreatedFormatted": "Jan 4, 2024",
+            "purchaseDateFormatted": "",
+            "name": "Danielle Z"
+        },
+        "691653": {
+            "id": 691653,
+            "text": "Has a pleasant taste too !",
+            "title": "Has a pleasant taste too",
+            "dateCreatedFormatted": "Jan 1, 2024",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "691649": {
+            "id": 691649,
+            "text": "These greens actually taste pretty good, especially compared to past brands I have tried. It really does taste like a peach iced tea. The texture is a little grainy as I only funnel it into a water bottle and shake it up. Perhaps if you blended it up it would be better? Definitely easy to drink regardless though!",
+            "title": "These greens actually taste pretty",
+            "dateCreatedFormatted": "Dec 31, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "691652": {
+            "id": 691652,
+            "text": "Super tasty",
+            "title": "Super tasty",
+            "dateCreatedFormatted": "Dec 31, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "684937": {
+            "id": 684937,
+            "text": "Love this stuff so much! I put it in my protein shake everyday and always feels like I'm getting that extra serving of veggies!",
+            "title": "Tastes Amazing!",
+            "dateCreatedFormatted": "Dec 28, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "684788": {
+            "id": 684788,
+            "text": "Not grainy when mixed well. Can't say too much about how I'm feeling yet, just got it the other day. BUT the flavor and smell is sooooo good!",
+            "title": "Not grainy when mixed well.",
+            "dateCreatedFormatted": "Dec 27, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "684577": {
+            "id": 684577,
+            "text": "So delicious! The boost of energy it gives every morning makes me feel ready to take on the day!",
+            "title": "Best Greens ever!",
+            "dateCreatedFormatted": "Dec 26, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "684495": {
+            "id": 684495,
+            "text": "Great taste and easy to drink!!!",
+            "title": "Great taste and easy to",
+            "dateCreatedFormatted": "Dec 25, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "683371": {
+            "id": 683371,
+            "text": "It tasted amazing and did it's job lol! Will be buying again",
+            "title": "It tasted amazing and did",
+            "dateCreatedFormatted": "Dec 23, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "683370": {
+            "id": 683370,
+            "text": "These are the best greens I have ever had! They taste delicious, making them easy to consume every morning, with no grassy taste or yucky aftertaste! There is also no weird texture. I would highly recommend giving it a try!",
+            "title": "The best greens out there!!!",
+            "dateCreatedFormatted": "Dec 22, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "683367": {
+            "id": 683367,
+            "text": "Taste great!",
+            "title": "Taste great!",
+            "dateCreatedFormatted": "Dec 19, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "683368": {
+            "id": 683368,
+            "text": "not bad",
+            "title": "not bad",
+            "dateCreatedFormatted": "Dec 18, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "683369": {
+            "id": 683369,
+            "text": "My all time favorite Super Green! I usually drink it in the morning so it gives me the boost I need. The peach scent and flavor is not overwhelming and there is no grainy texture.",
+            "title": "Love it..",
+            "dateCreatedFormatted": "Dec 18, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "682151": {
+            "id": 682151,
+            "text": "These are the best greens I've tried! Taste just like Peach Iced Tea.",
+            "title": "Yum!",
+            "dateCreatedFormatted": "Dec 13, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "681924": {
+            "id": 681924,
+            "text": "Overall it's my favorite! I have ordered twice already and I am honestly obsessed. I have tried several greens and this is by far my most favorite. Taste is probably my favorite",
+            "title": "Great taste!",
+            "dateCreatedFormatted": "Dec 12, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "681923": {
+            "id": 681923,
+            "text": "I loved the original but this one is definitely a must try! If you love the smell and taste of Snapple peach iced tea - this one is for you!",
+            "title": "I loved the original but",
+            "dateCreatedFormatted": "Dec 12, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "681636": {
+            "id": 681636,
+            "text": "So far so good this will be my 2nd week using it!! Good flavor no gritty taste!",
+            "title": "So far so good this",
+            "dateCreatedFormatted": "Dec 11, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "681635": {
+            "id": 681635,
+            "text": "10\/10 recommend these greens. If you like a peach tea you'll love these. I've tried a few greens in the past and they all taste grassy! You cannot go wrong with alani products!!!",
+            "title": "10\/10 recommend these greens. If",
+            "dateCreatedFormatted": "Dec 11, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "681420": {
+            "id": 681420,
+            "text": "I love the peach iced tea super greens! It really does taste like peach tea. It's not chalky. I look forward to drinking it every day because after I feel less bloated! Highly recommend!",
+            "title": "I love the peach iced",
+            "dateCreatedFormatted": "Dec 10, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "681265": {
+            "id": 681265,
+            "text": "I can chug this, it's so good! I love both flavors",
+            "title": "I can chug this, it's",
+            "dateCreatedFormatted": "Dec 9, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "680779": {
+            "id": 680779,
+            "text": "Same texture and feel gives the boost you need and taste just like peach ice tea.",
+            "title": "Same texture and feel gives",
+            "dateCreatedFormatted": "Dec 7, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "680781": {
+            "id": 680781,
+            "text": "Love this stuff!!",
+            "title": "Love this stuff!!",
+            "dateCreatedFormatted": "Dec 7, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "680780": {
+            "id": 680780,
+            "text": "This is just as good as the regular super greens! It's got a sweet peach tea flavor to it, I've been staying more consistent with drinking greens and the taste of this makes me look forward to one every morning! Even my kids love sneaking sips!",
+            "title": "One of the best greens!",
+            "dateCreatedFormatted": "Dec 7, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "680437": {
+            "id": 680437,
+            "text": "This is the first greens product I've really liked and looked forward to drinking! It tastes just like iced peach green tea and it's a very smooth texture until the last sip (maybe I need to add more water though). I don't notice a weird aftertaste or anything. I do feel an energy boost from having this, it's not the same level as a cup of coffee or energy drink, but it's enough for me to only have this in the morning when I don't feel like having multiple beverages!",
+            "title": "So tasty",
+            "dateCreatedFormatted": "Dec 6, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "680439": {
+            "id": 680439,
+            "text": "Great peachy, fruity flavor. Easy to mix. If I don't drink it quick enough the bottom part gets a little thick, but adding a little more water or giving it a quick swirl mixes it back up to the right consistency. Best tasting powdered greens I've ever had!",
+            "title": "Fruity greens",
+            "dateCreatedFormatted": "Dec 5, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "680432": {
+            "id": 680432,
+            "text": "Yum! So excited",
+            "title": "New Fav",
+            "dateCreatedFormatted": "Dec 4, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "680431": {
+            "id": 680431,
+            "text": "The best greens made even better with the peach flavor! Love it and use it every single day!",
+            "title": "Best greens are even better",
+            "dateCreatedFormatted": "Dec 4, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "680430": {
+            "id": 680430,
+            "text": "I look forward to my greens every day, I think these taste delicious. Needs to be mixed well",
+            "title": "I look forward to my",
+            "dateCreatedFormatted": "Dec 4, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "680433": {
+            "id": 680433,
+            "text": "The texture is easily mixed with water. I ebjoyed the flavor as well. Its a great way to start my morning!",
+            "title": "The texture is easily mixed",
+            "dateCreatedFormatted": "Dec 3, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "680436": {
+            "id": 680436,
+            "text": "The peach iced tea Super Greens is great. Some greens out there do not have a good flavor and do not mix well. Alani Nu greens are not like that. They mix well and taste great. I love starting off my morning with Super Greens!",
+            "title": "Solid product, great flavor",
+            "dateCreatedFormatted": "Dec 3, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "680438": {
+            "id": 680438,
+            "text": "The flavor is awesome and it tastes really smooth it's not chalky or chunky and doesn't have a weird aftertaste. 10\/10 the best greens I've ever tried!",
+            "title": "Love ??",
+            "dateCreatedFormatted": "Dec 3, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "680434": {
+            "id": 680434,
+            "text": "The taste is so good and doesn't have a grain consistency. Leaves me energized throughout the day and gives me a boost.",
+            "title": "The taste is so good",
+            "dateCreatedFormatted": "Dec 1, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "680435": {
+            "id": 680435,
+            "text": "The taste is unbelievable! I do feel a boost of energy after taking it for a week.",
+            "title": "Taste great & boost energy",
+            "dateCreatedFormatted": "Dec 1, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "679085": {
+            "id": 679085,
+            "text": "Good flavor - a little on the sweet side.",
+            "title": "Sweeter than original",
+            "dateCreatedFormatted": "Nov 30, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "678456": {
+            "id": 678456,
+            "text": "Love how this stuff gives me the boost of energy I need!",
+            "title": "Great stuff right here!",
+            "dateCreatedFormatted": "Nov 27, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "678457": {
+            "id": 678457,
+            "text": "Great flavor and way better than the old style they had.",
+            "title": "Great flavor and way better",
+            "dateCreatedFormatted": "Nov 27, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "678458": {
+            "id": 678458,
+            "text": "I Love the supergreens and have it everyday with my collagen! I would love if it came in more flavors as well!",
+            "title": "Amazing way to get your greens!",
+            "dateCreatedFormatted": "Nov 27, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "678460": {
+            "id": 678460,
+            "text": "The flavor is really good but it is really grainy and powdery now matter how long I mix it for and leaves a weird film on my tongue",
+            "title": "The flavor is really good",
+            "dateCreatedFormatted": "Nov 27, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "678459": {
+            "id": 678459,
+            "text": "Smells and tastes great! I love getting in my daily veggies, vitamins, and minerals with this powder. It dissolves well and is so easy to drink. I loved the original but I love the peach iced tea even more!",
+            "title": "Love this!",
+            "dateCreatedFormatted": "Nov 27, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "678286": {
+            "id": 678286,
+            "text": "I love the original greens but the Peach Tea ones are soooo good. No greens taste at all. I drink them everyday with lunch to help get that extra boost of veggies and the best part is they help keep my system regulated and the bloat down!",
+            "title": "So good",
+            "dateCreatedFormatted": "Nov 26, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "678287": {
+            "id": 678287,
+            "text": "super sweet but it is bearable.",
+            "title": "super sweet but it is",
+            "dateCreatedFormatted": "Nov 26, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "678289": {
+            "id": 678289,
+            "text": "I thought nothing could be better than the first regular flavor, but when this one came out I was truly blown away. It's much smoother than the regular greens and I look forward to drinking it every morning.",
+            "title": "Amazing Flavor!",
+            "dateCreatedFormatted": "Nov 26, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "677987": {
+            "id": 677987,
+            "text": "I'm not a tea fan but tried this anyway. It wasn't bad but definitely wasn't my favorite. I'll go back to the berry flavored.",
+            "title": "Tea greens",
+            "dateCreatedFormatted": "Nov 24, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "677988": {
+            "id": 677988,
+            "text": "The best I've had",
+            "title": "The best I've had",
+            "dateCreatedFormatted": "Nov 24, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "677735": {
+            "id": 677735,
+            "text": "Love the flavor of these greens!",
+            "title": "Love the flavor of these",
+            "dateCreatedFormatted": "Nov 23, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "677415": {
+            "id": 677415,
+            "text": "I look forward to drinking these greens every morning. They taste great and have helped me with bloating.",
+            "title": "Delicious",
+            "dateCreatedFormatted": "Nov 22, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "677413": {
+            "id": 677413,
+            "text": "Tastes great!!",
+            "title": "Tastes great!!",
+            "dateCreatedFormatted": "Nov 20, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "677414": {
+            "id": 677414,
+            "text": "These greens are DELICIOUS and make me feel great. Really does taste just like peach tea! Definitely recommend",
+            "title": "Delicious",
+            "dateCreatedFormatted": "Nov 20, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "677417": {
+            "id": 677417,
+            "text": "I was shocked at how good these greens tasted and I'm not even a big peach flavor person!!",
+            "title": "I was shocked at how",
+            "dateCreatedFormatted": "Nov 20, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "677412": {
+            "id": 677412,
+            "text": "Great way to get the benefits of vegetables and one of the better super greens however it tastes a bit powdery",
+            "title": "Great way to get the",
+            "dateCreatedFormatted": "Nov 20, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "677408": {
+            "id": 677408,
+            "text": "I love to drink this warm! Great flavor! Will definitely keep in stock . Has all the ingredients I was looking for in one product.",
+            "title": "I love to drink this",
+            "dateCreatedFormatted": "Nov 19, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "677416": {
+            "id": 677416,
+            "text": "This is my favorite green, love the flavor, I mix it in my smoothies daily, the smell is actually good & it gives me that extra energy",
+            "title": "This is my favorite green,",
+            "dateCreatedFormatted": "Nov 19, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "677418": {
+            "id": 677418,
+            "text": "This tastes good, dissolves easily, and gives me a little boost!",
+            "title": "Love this!",
+            "dateCreatedFormatted": "Nov 17, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "677410": {
+            "id": 677410,
+            "text": "Love this new flavor Peach iced tea!!!<br \/>Alani Nu greens every morning for years.",
+            "title": "Love this new flavor Peach",
+            "dateCreatedFormatted": "Nov 16, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "677411": {
+            "id": 677411,
+            "text": "Taste just like peach only greens I've tasted I like drinking by themselves.",
+            "title": "Peach Greens",
+            "dateCreatedFormatted": "Nov 16, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "677419": {
+            "id": 677419,
+            "text": "Best tasting greens I have had!",
+            "title": "Yum!",
+            "dateCreatedFormatted": "Nov 15, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "672792": {
+            "id": 672792,
+            "text": "Texture blends well in a shaker and makes it easy to drink! Great flavor is not too sweet or overpowering. An easy drink to start the day!",
+            "title": "Great flavor",
+            "dateCreatedFormatted": "Nov 13, 2023",
+            "purchaseDateFormatted": "Oct 13, 2023",
+            "name": "Rachel H"
+        },
+        "675756": {
+            "id": 675756,
+            "text": "Like the products benefits. Dislike the taste.",
+            "title": "Like the products benefits. Dislike",
+            "dateCreatedFormatted": "Nov 13, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "675757": {
+            "id": 675757,
+            "text": "It tastes just like peach iced tea. Gives me energy.",
+            "title": "It tastes just like peach",
+            "dateCreatedFormatted": "Nov 13, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "675572": {
+            "id": 675572,
+            "text": "Even better than the original greens that I loved! So good by itself no need to add to smoothies or anything at all.",
+            "title": "Better than OG",
+            "dateCreatedFormatted": "Nov 12, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "675395": {
+            "id": 675395,
+            "text": "So good! Tastes just like peach ice tea!",
+            "title": "So good! Tastes just like",
+            "dateCreatedFormatted": "Nov 11, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "675203": {
+            "id": 675203,
+            "text": "Love this flavor! Mixes well and taste exactly like Lipton peach iced tea!",
+            "title": "Love this flavor! Mixes well",
+            "dateCreatedFormatted": "Nov 10, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "675086": {
+            "id": 675086,
+            "text": "The flavor is definitely matching peach iced tea! For me it is true to taste. It' boosts my energy when I need a pick me up in the middle of the day! I recommend you give this a try!",
+            "title": "It's the greens for me",
+            "dateCreatedFormatted": "Nov 9, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "675087": {
+            "id": 675087,
+            "text": "Not your typical greens. Doesn't smell like much of anything. It is not gritty in texture. Mixes very well, and the taste is amazing",
+            "title": "Greens !",
+            "dateCreatedFormatted": "Nov 9, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "675088": {
+            "id": 675088,
+            "text": "Amazing taste",
+            "title": "Amazing taste",
+            "dateCreatedFormatted": "Nov 9, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "673163": {
+            "id": 673163,
+            "text": "I've been using alani nu greens for about a year now. I love the new flavor to change things up, and find this one mixes a lot better!",
+            "title": "Love!",
+            "dateCreatedFormatted": "Nov 6, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "673164": {
+            "id": 673164,
+            "text": "Fantastic flavor, it's a great pick me up in my day. Definitely would recommend to everyone to try at least once.",
+            "title": "Great flavor",
+            "dateCreatedFormatted": "Nov 6, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "673165": {
+            "id": 673165,
+            "text": "Love everything about it",
+            "title": "Love everything about it",
+            "dateCreatedFormatted": "Nov 5, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "673166": {
+            "id": 673166,
+            "text": "Great taste and seems to really work!",
+            "title": "Tasty and Works!",
+            "dateCreatedFormatted": "Nov 5, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "673168": {
+            "id": 673168,
+            "text": "Flavor is great and the texture is far less gritty then other super greens! Love the boost of energy too",
+            "title": "Flavor is great and the",
+            "dateCreatedFormatted": "Nov 4, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "673167": {
+            "id": 673167,
+            "text": "It has a gritty texture to it so it really off putting. But the taste pretty good almost like a dite peach tea!",
+            "title": "It has a gritty texture",
+            "dateCreatedFormatted": "Nov 2, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669855": {
+            "id": 669855,
+            "text": "Great taste",
+            "title": "Love it",
+            "dateCreatedFormatted": "Oct 22, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669857": {
+            "id": 669857,
+            "text": "I was hesitant to stray from the OG greens, but was surprised with the peach flavor of these! It's not overpowering or artificial tasting, super refreshing. Love them!",
+            "title": "I was hesitant to stray",
+            "dateCreatedFormatted": "Oct 22, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669854": {
+            "id": 669854,
+            "text": "the flavor and the smell are so lovely! I didn't love the consistency but I still would re order in the future!",
+            "title": "the flavor and the smell",
+            "dateCreatedFormatted": "Oct 19, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669860": {
+            "id": 669860,
+            "text": "I love these greens! The peach tea flavor tastes so natural - it makes for the perfect beverage\/pick me up no matter the time of day. The flavor doesn't disguise it from being greens, though - you have to mix it really well and don't be alarmed by the green color.",
+            "title": "Delicious greens",
+            "dateCreatedFormatted": "Oct 17, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669856": {
+            "id": 669856,
+            "text": "Actually love the taste and the product.",
+            "title": "Yum!",
+            "dateCreatedFormatted": "Oct 16, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669858": {
+            "id": 669858,
+            "text": "The flavor\/smell is much better than most greens, texture is standard and not too gritty but if it sits for too long it can get there which doesn't feel great in the mouth. Otherwise, I feel great drinking it and think it definitely helped strengthen my immune system this cold\/flu season.",
+            "title": "10\/10 would (and will) buy again",
+            "dateCreatedFormatted": "Oct 16, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "669859": {
+            "id": 669859,
+            "text": "My favorite with no texture,very peachy flavor , smells good",
+            "title": "My favorite with no texture,very",
+            "dateCreatedFormatted": "Oct 14, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "663977": {
+            "id": 663977,
+            "text": "Love the flavor and this is a MUST have for me every day. I can tell if I don't use it. Just wish it didn't separate so easily as I don't always think to stir or shake it between drinks if it sits for awhile.",
+            "title": "Love the flavor and this",
+            "dateCreatedFormatted": "Oct 13, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "663978": {
+            "id": 663978,
+            "text": "Great flavor and mixes well so no gritty texture",
+            "title": "Great flavor and mixes well",
+            "dateCreatedFormatted": "Oct 13, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "663666": {
+            "id": 663666,
+            "text": "This is hands down one of the best tasting greens I've ever had. Usually other greens taste like I'm drinking grass but this actually taste pretty good. I'm not struggling to finish it and I feel refreshed afterwards.",
+            "title": "Best rating greens",
+            "dateCreatedFormatted": "Oct 12, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "663086": {
+            "id": 663086,
+            "text": "I recently switched from another super greens product to Alani Nu, and I love this one so much more. The peach iced tea flavor is great.",
+            "title": "Great taste & product",
+            "dateCreatedFormatted": "Oct 8, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "662879": {
+            "id": 662879,
+            "text": "Love this great taste. Helps me feel great and I've noticed I've had less bloating.",
+            "title": "Love this great taste. Helps",
+            "dateCreatedFormatted": "Oct 7, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "662880": {
+            "id": 662880,
+            "text": "I love this! Tastes just like peach tea!",
+            "title": "I love this! Tastes just",
+            "dateCreatedFormatted": "Oct 7, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "661528": {
+            "id": 661528,
+            "text": "I hated, let me say that again, hated every greens I tried, until I tried the Peach Iced Tea greens version from Alani Nu. I have recommended these greens to all my friends, and now am on my 2nd container! It's my first out-of-bed refreshing drink thing I do every morning to get my gut right, energized, and start my day off right!??",
+            "title": "Greens? Yes, please!",
+            "dateCreatedFormatted": "Oct 6, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "661527": {
+            "id": 661527,
+            "text": "I never start a day off without having a Super Greens drink. Love the Peach flavor, tastes great",
+            "title": "I never start a day",
+            "dateCreatedFormatted": "Oct 6, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "661530": {
+            "id": 661530,
+            "text": "I'm not really a fan of the texture. It was really gritty for me. It was hard to finish the 30 day supply",
+            "title": "I'm not really a fan",
+            "dateCreatedFormatted": "Oct 5, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "661534": {
+            "id": 661534,
+            "text": "Feels like I have more energy! The flavor is on point.",
+            "title": "Must buy?",
+            "dateCreatedFormatted": "Oct 4, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "661526": {
+            "id": 661526,
+            "text": "It tastes like peach tea, but it smells like sulfur. Since the smell is so strong it did not matter what it tasted like because I was smelling it every time I went to drink it. It also does not mix well at all. By the end I was getting undissolved powder which really put me over the edge.",
+            "title": "I could not get this down",
+            "dateCreatedFormatted": "Oct 4, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "661532": {
+            "id": 661532,
+            "text": "I will continuously keep greens part of my daily routine! This is my second order, so I have been consistently taking the for 1 month. No more bloating, regularly, and its minimal during that monthly bestie that shows up (insert eye roll). It has helped tremendously with my digestion as well. Don't be on the fence, give these a try, so worth it! I choose the peach tea flavor, and it is pleasant!",
+            "title": "Refill!",
+            "dateCreatedFormatted": "Oct 2, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "661531": {
+            "id": 661531,
+            "text": "Best greens I've ever had! Have tried multiple different brands and these are by far the best!!",
+            "title": "Best Greens!",
+            "dateCreatedFormatted": "Oct 2, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "661533": {
+            "id": 661533,
+            "text": "Was really good. Helped me get my greens in. The powder mixed well.",
+            "title": "Was really good. Helped me",
+            "dateCreatedFormatted": "Oct 1, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "661525": {
+            "id": 661525,
+            "text": "Love it",
+            "title": "Love it",
+            "dateCreatedFormatted": "Oct 1, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "659158": {
+            "id": 659158,
+            "text": "I've have tried many brands and these greens are by far the best. They don't taste chalky like others do, the flavor is amazing and they really work. These are the only greens I purchase.",
+            "title": "SO GOOD!",
+            "dateCreatedFormatted": "Sep 28, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "659017": {
+            "id": 659017,
+            "text": "I Love the flavor!! Sometimes I don't think it blends all the way. Other than that, I truly really like it. Will be buying again.",
+            "title": "Will be buying again :)",
+            "dateCreatedFormatted": "Sep 27, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "658923": {
+            "id": 658923,
+            "text": "The peach tea greens are great for those who don't like the taste of the super greens. The peach tea masks the \"yucky\" flavor perfectly!",
+            "title": "Delicious",
+            "dateCreatedFormatted": "Sep 26, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "658834": {
+            "id": 658834,
+            "text": "Great taste",
+            "title": "Great taste",
+            "dateCreatedFormatted": "Sep 25, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "658448": {
+            "id": 658448,
+            "text": "Peach idea tea are the best greens I've even had and I have tried many",
+            "title": "Best greens",
+            "dateCreatedFormatted": "Sep 23, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "658377": {
+            "id": 658377,
+            "text": "This taste amazing!! I always struggled with greens with a weird greens taste but this on I can drink so effortlessly.",
+            "title": "Amazing taste",
+            "dateCreatedFormatted": "Sep 22, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "658375": {
+            "id": 658375,
+            "text": "It is the only greens that my husband will drink!",
+            "title": "Husband approved :)",
+            "dateCreatedFormatted": "Sep 21, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "658376": {
+            "id": 658376,
+            "text": "Soooo delicious! The best greens product I've had, will continue to use this! However, it did not come with a scooper. I'm not sure if that was a packaging mistake or if just don't come wit one. That's kinda frustrating having to measure out the serving every-time.",
+            "title": "Delicious!",
+            "dateCreatedFormatted": "Sep 19, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "658378": {
+            "id": 658378,
+            "text": "Love the new flavor. I've been waiting for something like this to come out and glad it's finally here!",
+            "title": "Love the new flavor. I've",
+            "dateCreatedFormatted": "Sep 17, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "646544": {
+            "id": 646544,
+            "text": "amazing flavor, tastes just like iced tea!",
+            "title": "amazing flavor, tastes just like",
+            "dateCreatedFormatted": "Sep 12, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "646006": {
+            "id": 646006,
+            "text": "Delicious energy boost. Feel great after taking it!",
+            "title": "Greens",
+            "dateCreatedFormatted": "Sep 8, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "646005": {
+            "id": 646005,
+            "text": "The flavor is so good. It taste just like iced peach tea. It came pretty fast. The texture isn't bad. It's better than I expected. I would definitely buy again or recommend to someone.",
+            "title": "This makes it so easy to drink greens",
+            "dateCreatedFormatted": "Sep 8, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "641133": {
+            "id": 641133,
+            "text": "The texture and flavor of this is amazing!",
+            "title": "Super greens",
+            "dateCreatedFormatted": "Sep 4, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "641134": {
+            "id": 641134,
+            "text": "Tasty and effective",
+            "title": "Tasty and effective",
+            "dateCreatedFormatted": "Sep 4, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "641132": {
+            "id": 641132,
+            "text": "Both flavors or Greens are amazing. No chalky flavor, funky taste or texture. But the peach (chef's kiss) is another level! Its so good! This is my 2nd jar of Greens and I do feel a difference in my mid section. I drink this in the morning before I eat if I can and it does work! I do recommend giving it a swirl before each drink. I'll be ordering this again!",
+            "title": "Both flavors or Greens are",
+            "dateCreatedFormatted": "Sep 3, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "641135": {
+            "id": 641135,
+            "text": "Seriously the best flavored greens I've ever had!! I use a frother to mix them. They're still a little gritty, but not too bad. Definitely will try to purchase again.",
+            "title": "Peach tea greens",
+            "dateCreatedFormatted": "Sep 2, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "641136": {
+            "id": 641136,
+            "text": "The best greens I have tried by far!! ??",
+            "title": "The best greens I have",
+            "dateCreatedFormatted": "Sep 2, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "641131": {
+            "id": 641131,
+            "text": "It mixes well, but is the most disgusting thing I have ever tasted. Do not recommend the flavor. Shipping was great.",
+            "title": "It mixes well, but is",
+            "dateCreatedFormatted": "Sep 2, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "637557": {
+            "id": 637557,
+            "text": "I love this product. I love the flavor and look forward to drinking. Ordering and receiving this product was a smooth and timely process.",
+            "title": "I love this product. I",
+            "dateCreatedFormatted": "Sep 1, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "641138": {
+            "id": 641138,
+            "text": "Not too grainy tasting or chalky tasting. You can taste the \"greens\" a little bit, but you can definitely taste the \"peach iced tea\". I've only drank it a couple times, but I'm excited to see if I notice any difference with energy, how I'm feeling, etc. As of now I would say I would buy it again.",
+            "title": "Peach Iced Tea Greens",
+            "dateCreatedFormatted": "Sep 1, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "637558": {
+            "id": 637558,
+            "text": "Great taste",
+            "title": "Great taste",
+            "dateCreatedFormatted": "Sep 1, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "637465": {
+            "id": 637465,
+            "text": "Great taste",
+            "title": "Great taste",
+            "dateCreatedFormatted": "Aug 31, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "637464": {
+            "id": 637464,
+            "text": "Great taste!",
+            "title": "Great taste!",
+            "dateCreatedFormatted": "Aug 31, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "637466": {
+            "id": 637466,
+            "text": "Great flavor with all the essential green you need!",
+            "title": "Great flavor with all the",
+            "dateCreatedFormatted": "Aug 31, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "637350": {
+            "id": 637350,
+            "text": "These are by far the best greens I have ever had. The taste is so good and the texture of the powder doesn't feel grainy.",
+            "title": "Love Love Love",
+            "dateCreatedFormatted": "Aug 30, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "628601": {
+            "id": 628601,
+            "text": "Blends great, not gritty and taste amazing",
+            "title": "Blends great, not gritty and",
+            "dateCreatedFormatted": "Aug 28, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "628375": {
+            "id": 628375,
+            "text": "Incredible, natural taste! Was skeptical because sometimes peach flavor is very artificial but not this!",
+            "title": "Great taste!",
+            "dateCreatedFormatted": "Aug 26, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "628070": {
+            "id": 628070,
+            "text": "Texture is a bit gritty, but that's expected.. it's better than some others I've tried! The flavor - WOW! this is sooo good! I've turned a couple friends onto it already! Legit tastes just like peach tea. And it's not too sweet! Easy to drink. I love that I can get my superfoods in, in such an easy delicious fashion.",
+            "title": "Texture is a bit gritty,",
+            "dateCreatedFormatted": "Aug 25, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "628071": {
+            "id": 628071,
+            "text": "Still taste a bit like greens but better than most, nice peach flavor. Not gritty at all like some greens. Very fast shipping.",
+            "title": "Yum!",
+            "dateCreatedFormatted": "Aug 25, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "627958": {
+            "id": 627958,
+            "text": "Refreshing and delicious!",
+            "title": "Refreshing and delicious!",
+            "dateCreatedFormatted": "Aug 24, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "627959": {
+            "id": 627959,
+            "text": "Makes taking my greens effortless and taste good for once",
+            "title": "Makes taking my greens effortless",
+            "dateCreatedFormatted": "Aug 24, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "627957": {
+            "id": 627957,
+            "text": "The flavor of this is great! It makes me want to drink it every morning! The texture is a lot smoother than other greens I have tried in the past",
+            "title": "Super Greens Peach Tea",
+            "dateCreatedFormatted": "Aug 24, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "627889": {
+            "id": 627889,
+            "text": "The flavor was great but the texture is not my favorite. It's gritty and does not completely dissolve, no matter how many times I shook it or used the mixer. Maybe this is the nature of greens powders in general, but it's a bit difficult to swallow. I've always received excellent service from Alani Nu so I'll continue purchasing other items that I love.",
+            "title": "good flavor, not so great texture",
+            "dateCreatedFormatted": "Aug 21, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "627894": {
+            "id": 627894,
+            "text": "These greens taste delicious. Truly a sweet tea on a summer day vibe. Refreshing, sweet, tangy, amazing. The only thing to keep in mind is to make sure they are well blended. If softly stirred, there is often a big clump of powder at the bottom.",
+            "title": "A sweet tea on a summers day vibe",
+            "dateCreatedFormatted": "Aug 21, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "627897": {
+            "id": 627897,
+            "text": "Blends wonderfully and the flavor is amazing! Love to use this in the AM to start my day off!",
+            "title": "Blends wonderfully and the flavor",
+            "dateCreatedFormatted": "Aug 21, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "627892": {
+            "id": 627892,
+            "text": "I was nervous to try these, and I've never taken greens before. But these are so yummy, there is essentially no greens flavor. If you don't drink it fast, it does separate, so you just need to re stir.",
+            "title": "I was nervous to try",
+            "dateCreatedFormatted": "Aug 18, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "627899": {
+            "id": 627899,
+            "text": "I love the taste of this so much and drink it every day now. My husband decided that he wants his own container, too!",
+            "title": "Excellent!",
+            "dateCreatedFormatted": "Aug 18, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "627888": {
+            "id": 627888,
+            "text": "The hype is REAL. I was a bit skeptical at first, but Alan's Peach Iced Tea greens are so, so tasty. I don't tend to eat a lot of veggies with breakfast, so this has quickly become a staple in my morning routine.",
+            "title": "Absolutely hooked!",
+            "dateCreatedFormatted": "Aug 17, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "627900": {
+            "id": 627900,
+            "text": "Such great flavor for the super greens! Highly recommend it! ??",
+            "title": "Such great flavor for the",
+            "dateCreatedFormatted": "Aug 17, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "627901": {
+            "id": 627901,
+            "text": "I am really enjoying this flavor ??",
+            "title": "Must have super greens??",
+            "dateCreatedFormatted": "Aug 17, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "627903": {
+            "id": 627903,
+            "text": "Good taste for greens. Make sure you really mix it, probably with a frother or else it gets grainy",
+            "title": "Good taste for greens. Make",
+            "dateCreatedFormatted": "Aug 17, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "627905": {
+            "id": 627905,
+            "text": "Delicious and doesn't have the normal greens taste at all!",
+            "title": "Delicious and doesn't have the",
+            "dateCreatedFormatted": "Aug 17, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "627898": {
+            "id": 627898,
+            "text": "Best super green taste out there.",
+            "title": "Best super green taste out",
+            "dateCreatedFormatted": "Aug 16, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "627887": {
+            "id": 627887,
+            "text": "I love peaches & the flavor of these greens is so good! Some peach flavored things can taste a little off, but not this. It's so good!",
+            "title": "Peach Tea Greens",
+            "dateCreatedFormatted": "Aug 16, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "626145": {
+            "id": 626145,
+            "text": "Tastes just like peach tea! Love that I don't have to mix them with anything except water!",
+            "title": "Tastes just like peach tea!",
+            "dateCreatedFormatted": "Aug 15, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "627906": {
+            "id": 627906,
+            "text": "Drink my greens every day and this new flavor is amazing!!",
+            "title": "Love the new flavor!",
+            "dateCreatedFormatted": "Aug 15, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "627896": {
+            "id": 627896,
+            "text": "I had been interested in trying greens for some time now. Since becoming OBSESSED with any Alani I get my hands on, I decided to cave and try Alani Greens! Here I am about 2 weeks of drinking them daily and to say I am impressed is an UNDERSTATEMENT. My bloating issues have since faded and these supplements have my digestion comfortable. The only regret-not getting on board sooner:) <br \/><br \/>I have no experience with greens to compare the taste too but these are good! I went for the Peach Green Tea and mix it with about 16oz of water.",
+            "title": "1st Timer!",
+            "dateCreatedFormatted": "Aug 15, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "626033": {
+            "id": 626033,
+            "text": "Tastes like snapple peach tea - so good!",
+            "title": "love it",
+            "dateCreatedFormatted": "Aug 14, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "627893": {
+            "id": 627893,
+            "text": "Taste great!",
+            "title": "Taste great!",
+            "dateCreatedFormatted": "Aug 14, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "627895": {
+            "id": 627895,
+            "text": "The regular super greens was good but this actually taste delicious! I usually will enjoy no later than early afternoon with Fiber and collagen. Makes everything taste better!",
+            "title": "Super Green Rec",
+            "dateCreatedFormatted": "Aug 14, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "627890": {
+            "id": 627890,
+            "text": "I've tried both greens and while I also like the original flavor, the peach ice tea greens are AMAZING!! They have the best flavor, you can taste the ice tea and the peach but they are not overly sweet with the peach flavor. I mix with just water and they are amazing! Order them!",
+            "title": "These greens??",
+            "dateCreatedFormatted": "Aug 14, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "627902": {
+            "id": 627902,
+            "text": "Didn't think greens could get better. Then boom. Would absolutely recommend!",
+            "title": "It's a yes from me dawg",
+            "dateCreatedFormatted": "Aug 14, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "627904": {
+            "id": 627904,
+            "text": "The greens taste good by themself... of course it's greens and it has a little grit but I love how easily mixed it is. I use a spoon at work and as long as you stir before drinking and add water as you go, it mixes so easily. The flavor is surprisingly good for greens and my energy\/focus goes up within the hour. Highly recommend ?",
+            "title": "Mixes and tastes great! I felt a mood perk",
+            "dateCreatedFormatted": "Aug 14, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "625227": {
+            "id": 625227,
+            "text": "These are phenomenal! Soft, and extremely flavorful",
+            "title": "Pb&J",
+            "dateCreatedFormatted": "Aug 13, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "625226": {
+            "id": 625226,
+            "text": "taste exactly like peach iced tea",
+            "title": "no chalky greens!",
+            "dateCreatedFormatted": "Aug 13, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "625225": {
+            "id": 625225,
+            "text": "Loves this one even more than the original greens. Not too strong of a peach flavor. These are the only greens I truly enjoy drinking!",
+            "title": "SO GOOD",
+            "dateCreatedFormatted": "Aug 13, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "624879": {
+            "id": 624879,
+            "text": "I've been drinking these greens for about 3 weeks not and they are amazing. The flavor is 10\/10 I literally feel like I'm drink a peach tea in the morning it's great! It has helped a lot with my bloating and skin.",
+            "title": "I've been drinking these greens",
+            "dateCreatedFormatted": "Aug 12, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "624878": {
+            "id": 624878,
+            "text": "Super greens is x5 better now that it's flavored. Before I would have to force myself to drink my greens now I look forward to it. I love the flavor it does taste exactly like ice tea.",
+            "title": "Greens",
+            "dateCreatedFormatted": "Aug 12, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "624877": {
+            "id": 624877,
+            "text": "I thought the flavor would be lost and it wouldn't taste anything like iced tea .. but alani never fails to deliver !! Absolutely loved the taste it tastes just like iced tea .. definitely an upgrade from their previous greens",
+            "title": "I thought the flavor would",
+            "dateCreatedFormatted": "Aug 12, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "624738": {
+            "id": 624738,
+            "text": "I enjoy drinking this drink! It taste like lipton iced tea. It is kinda hard to dilute though even with a mixer so there are some grainy residue when drinking it.",
+            "title": "Grainy but taste good",
+            "dateCreatedFormatted": "Aug 11, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "624625": {
+            "id": 624625,
+            "text": "I bought orginial flavor before, but this is my new favorite. As a child I loved drinking peach tea and this is yummy!",
+            "title": "Yummy",
+            "dateCreatedFormatted": "Aug 10, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "624624": {
+            "id": 624624,
+            "text": "Taste like Lipton ice tea and could be peachier even with the blender it is a bit chalky and grainy",
+            "title": "Taste like Lipton ice tea",
+            "dateCreatedFormatted": "Aug 10, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "624623": {
+            "id": 624623,
+            "text": "Best tasting greens on the market!!",
+            "title": "Peach Tea Greens",
+            "dateCreatedFormatted": "Aug 10, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "624622": {
+            "id": 624622,
+            "text": "I love them, partner doesn't",
+            "title": "I love them, partner doesn't",
+            "dateCreatedFormatted": "Aug 10, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "624120": {
+            "id": 624120,
+            "text": "This is the first greens powder I have ever tried and these are so good! I mix these with water and pour that into a smoothie and the peach taste is there! Highly recommend these greens to everyone! 15\/10",
+            "title": "peach iced tea greens=amazing",
+            "dateCreatedFormatted": "Aug 8, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "624119": {
+            "id": 624119,
+            "text": "Love the original greens, but really enjoy this new flavor. Refreshing!",
+            "title": "Yummy Greens",
+            "dateCreatedFormatted": "Aug 8, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "624118": {
+            "id": 624118,
+            "text": "Such a yummy flavor - still tastes like the greens but with a peach tea refresh! Love this flavor!",
+            "title": "YUMMM!!!",
+            "dateCreatedFormatted": "Aug 8, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "624117": {
+            "id": 624117,
+            "text": "I do like the flavor a lot the texture when it's just with water slightly bugs me but I am able to drink the whole thing.",
+            "title": "Pretty Good",
+            "dateCreatedFormatted": "Aug 8, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "624116": {
+            "id": 624116,
+            "text": "It really does taste like peach iced tea I hope they come up with more flavors.",
+            "title": "Peachy",
+            "dateCreatedFormatted": "Aug 8, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "623983": {
+            "id": 623983,
+            "text": "Great taste iced fir a summer drink that's actually good for you.",
+            "title": "Greens",
+            "dateCreatedFormatted": "Aug 7, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "623982": {
+            "id": 623982,
+            "text": "Very tasty greens drink flavor!",
+            "title": "Very tasty greens drink flavor!",
+            "dateCreatedFormatted": "Aug 7, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "623981": {
+            "id": 623981,
+            "text": "This actually tastes pretty good. Way better than other greens I have tried.",
+            "title": "This actually tastes pretty good.",
+            "dateCreatedFormatted": "Aug 7, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "623980": {
+            "id": 623980,
+            "text": "I recently purchased this product and must say it tastes absolutely amazing. It actually tastes like peach iced tea and I want to drink it constantly it's so good.",
+            "title": "Tastes amazing",
+            "dateCreatedFormatted": "Aug 7, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "623979": {
+            "id": 623979,
+            "text": "I was nervous to try these greens. I have not been able to stand the taste or grittiness of the greens I have tried from various brands. These super greens taste great and the texture is smooth.",
+            "title": "Best greens I've tried!",
+            "dateCreatedFormatted": "Aug 7, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "623978": {
+            "id": 623978,
+            "text": "Tastes great! Took away one star because of the gritty texture. Taste makes up for it though!",
+            "title": "Great taste!",
+            "dateCreatedFormatted": "Aug 7, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "623977": {
+            "id": 623977,
+            "text": "This is a good product but if you leave it set for a little before you drink it all the product will settle down to the bottom.",
+            "title": "It settles",
+            "dateCreatedFormatted": "Aug 7, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "623976": {
+            "id": 623976,
+            "text": "Perfect flavor for summer!",
+            "title": "Perfect flavor for summer!",
+            "dateCreatedFormatted": "Aug 7, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "623975": {
+            "id": 623975,
+            "text": "The best greens I have tasted yet. It tastes just like a peach ice green tea ??",
+            "title": "So refreshing",
+            "dateCreatedFormatted": "Aug 7, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "623974": {
+            "id": 623974,
+            "text": "Have been drinking the OG flavor for awhile, super fan of them and this just made them even better,",
+            "title": "Flavor on point",
+            "dateCreatedFormatted": "Aug 7, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "623973": {
+            "id": 623973,
+            "text": "A greens that doesn't taste like?greens! I hate taking greens so much. The peach flavor is a 10\/10.",
+            "title": "FINALLY",
+            "dateCreatedFormatted": "Aug 7, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "623972": {
+            "id": 623972,
+            "text": "Very tasty! Definitely different than the other greens.",
+            "title": "Yummy!",
+            "dateCreatedFormatted": "Aug 7, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "623861": {
+            "id": 623861,
+            "text": "Best tasting Greens ive had!",
+            "title": "Amazing!",
+            "dateCreatedFormatted": "Aug 6, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "623860": {
+            "id": 623860,
+            "text": "Love the flavor and the taste",
+            "title": "Taste great",
+            "dateCreatedFormatted": "Aug 6, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "623855": {
+            "id": 623855,
+            "text": "Tasted alot better then what I thought. And noticed positive changes.",
+            "title": "Tasted alot better then what",
+            "dateCreatedFormatted": "Aug 6, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "623851": {
+            "id": 623851,
+            "text": "love the taste of this so much, so easy to drink!",
+            "title": "YUM",
+            "dateCreatedFormatted": "Aug 6, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "623849": {
+            "id": 623849,
+            "text": "So yummy, a great way to start my morning. I love the original greens flavor, but the peach takes it up a notch!",
+            "title": "So yummy",
+            "dateCreatedFormatted": "Aug 6, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "623848": {
+            "id": 623848,
+            "text": "Flavorful and refreshing! I enjoyed it and think it will be easy to add to my daily routine.",
+            "title": "Refreshing",
+            "dateCreatedFormatted": "Aug 6, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "623847": {
+            "id": 623847,
+            "text": "Pretty good!",
+            "title": "Pretty good!",
+            "dateCreatedFormatted": "Aug 6, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "623844": {
+            "id": 623844,
+            "text": "Seriously had such an amazing iced peach tea flavor. I don't have to mix it with any juice, etc. Amazing taste!",
+            "title": "Just Peachy!",
+            "dateCreatedFormatted": "Aug 6, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "623841": {
+            "id": 623841,
+            "text": "These greens are very easy to drink-they definitely taste like Peach Ice Tea. I feel that they have a similar effect to the other popular \"super greens\" currently on the market.",
+            "title": "Tastes like Tea",
+            "dateCreatedFormatted": "Aug 6, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "623840": {
+            "id": 623840,
+            "text": "Absolutely delicious!!",
+            "title": "Absolutely delicious!!",
+            "dateCreatedFormatted": "Aug 6, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "623839": {
+            "id": 623839,
+            "text": "I love it! It tastes just like peach iced tea!",
+            "title": "So good!",
+            "dateCreatedFormatted": "Aug 6, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "623838": {
+            "id": 623838,
+            "text": "These are by far the best tasting greens! Will definitely be ordering more.",
+            "title": "The best greens",
+            "dateCreatedFormatted": "Aug 6, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "623837": {
+            "id": 623837,
+            "text": "I never minded the taste of the regular greens from alani but these are sooo good. Tastes similar to like a crystal light or something instead of your greens!",
+            "title": "Sooooo Good",
+            "dateCreatedFormatted": "Aug 6, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "623836": {
+            "id": 623836,
+            "text": "It settles really fast and after the first few sips it just taste like greens",
+            "title": "First sip is ok",
+            "dateCreatedFormatted": "Aug 6, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "623833": {
+            "id": 623833,
+            "text": "This is yummy! Use it every morning! Gives me that extra boost of energy.",
+            "title": "First time buy",
+            "dateCreatedFormatted": "Aug 6, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "623862": {
+            "id": 623862,
+            "text": "Alani is always so spot on with flavors and they're always so good. This one I'm not a huge fan of? I know greens can only be camouflaged so much but for me this is not it.",
+            "title": "Could make myself drink it",
+            "dateCreatedFormatted": "Aug 5, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "623846": {
+            "id": 623846,
+            "text": "These are my favorite greens. Drink them every single day!",
+            "title": "So delicious!",
+            "dateCreatedFormatted": "Aug 5, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "623842": {
+            "id": 623842,
+            "text": "This is one of the best tasting greens.",
+            "title": "PEACHY",
+            "dateCreatedFormatted": "Aug 5, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "623834": {
+            "id": 623834,
+            "text": "Great product and taste! I have been a fan for years and can say the products are do not disappoint!",
+            "title": "Great product",
+            "dateCreatedFormatted": "Aug 5, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "623853": {
+            "id": 623853,
+            "text": "I have tried 3 different greens products and this is the first one that actually tastes good to me. It tastes like peach while you're drinking it, and then there is that greens after taste.",
+            "title": "Peachy Greens",
+            "dateCreatedFormatted": "Aug 4, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "623852": {
+            "id": 623852,
+            "text": "OMG the flavor of these greens are next level. Peach tea is perfect for a summer time sipper. I look forward to drinking my greens now EVERYDAY with this awesome flavor.",
+            "title": "Yum",
+            "dateCreatedFormatted": "Aug 4, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "623843": {
+            "id": 623843,
+            "text": "Light and refreshing flavor!! Love it with lots of ice",
+            "title": "So refreshing",
+            "dateCreatedFormatted": "Aug 4, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "623835": {
+            "id": 623835,
+            "text": "The flavor is great, I no longer need to mix my greens with anything. I think it was a genius idea to do a Peach Iced Tea flavor. Good work Alani Nu!",
+            "title": "Taste is spot on, makes me excited to have my greens ??",
+            "dateCreatedFormatted": "Aug 4, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "623859": {
+            "id": 623859,
+            "text": "This flavor is great. I mix it with my first cup of ice cold water every morning.",
+            "title": "Just Peachy",
+            "dateCreatedFormatted": "Aug 3, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "623857": {
+            "id": 623857,
+            "text": "The flavor is so good - it truly tastes like a peach iced tea. Highly recommend!",
+            "title": "So good!!",
+            "dateCreatedFormatted": "Aug 3, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "623850": {
+            "id": 623850,
+            "text": "Love this! It taste amazing and is easy to drink.",
+            "title": "Great taste",
+            "dateCreatedFormatted": "Aug 3, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "623858": {
+            "id": 623858,
+            "text": "Very good and has a strong peach flavor! I don't really like tea at all but this is good and it's great in a peach mango smoothie!",
+            "title": "Very good and has a",
+            "dateCreatedFormatted": "Aug 1, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "618677": {
+            "id": 618677,
+            "text": "Taste like a peach green tea ??",
+            "title": "Delicious ??",
+            "dateCreatedFormatted": "Jul 26, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "618676": {
+            "id": 618676,
+            "text": "I was fully expecting to loath these greens, because frankly, most taste like dirt. But these, friends, do in fact taste like peach tea. LOVE them and I am so excited to finally have greens I enjoy!?? Thank you Alani for being the goat ??",
+            "title": "Earth Taste Be Gone",
+            "dateCreatedFormatted": "Jul 26, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "618213": {
+            "id": 618213,
+            "text": "OMG the flavor of these greens are next level. Peach tea is perfect for a summer time sipper. I look forward to drinking my greens now EVERYDAY with this awesome flavor. <br \/><br \/>YUMMM",
+            "title": "Delicious and Refreshing!",
+            "dateCreatedFormatted": "Jul 25, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "617973": {
+            "id": 617973,
+            "text": "Both flavors are delicious. Love taking these greens for my gut.",
+            "title": "Best greens",
+            "dateCreatedFormatted": "Jul 23, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "617979": {
+            "id": 617979,
+            "text": "The new peach tea greens are AMAZING. I could drink them all day!",
+            "title": "YUM",
+            "dateCreatedFormatted": "Jul 20, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "617980": {
+            "id": 617980,
+            "text": "I've tried other greens drinks in the past and have had a hard time sticking with them because of the taste. Peach flavor is so good and tastes like a treat. Love!",
+            "title": "Yummy!",
+            "dateCreatedFormatted": "Jul 18, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "617975": {
+            "id": 617975,
+            "text": "Wow! I am highly impressed with the taste of this powder. You get a slight taste of \"greens\" at the end but overall, it's like drinking a legit peach tea. I put ice in mine and enjoying it like any normal refreshment. I would have never thought getting in my greens would taste this good!",
+            "title": "Peach Green Goodness",
+            "dateCreatedFormatted": "Jul 18, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "617978": {
+            "id": 617978,
+            "text": "I'm not gonna lie I was a little nervous to try it because every super greens that I've tried from other brands were awful. However I must say it's actually the best tasting super greens that I've tried and it's because of the peach iced tea flavor. That flavor is what helps actually make it taste good and want to actually drink it",
+            "title": "Peach iced tea super greens",
+            "dateCreatedFormatted": "Jul 15, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        },
+        "617976": {
+            "id": 617976,
+            "text": "These are absolutely amazing , I can't even taste the greens, it just taste like peach iced tea!! I recommend it 100%",
+            "title": "AMAZING",
+            "dateCreatedFormatted": "Jul 15, 2023",
+            "purchaseDateFormatted": "",
+            "name": " "
+        }
+    }
+}
